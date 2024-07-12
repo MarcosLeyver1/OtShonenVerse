@@ -1,0 +1,225 @@
+{
+  "healing6": {
+    "max": 30,
+    "title": "HP%",
+    "on": false,
+    "min": 0,
+    "text": "fuga"
+  },
+  "autoHelpMessage": "hi",
+  "foodItems": [
+    {
+      "count": 1,
+      "id": 3582
+    },
+    {
+      "count": 1,
+      "id": 3577
+    }
+  ],
+  "isUsing": false,
+  "followLeader": "",
+  "AutoRevide": {
+    "pausedTarget": false,
+    "pausedCave": false
+  },
+  "Combo1Text": "super star",
+  "buff2": "",
+  "manatrainer": {
+    "max": 80,
+    "title": "mana%",
+    "on": false,
+    "min": 0,
+    "text": "  Magic Down"
+  },
+  "autoHealthItemPanel2": {
+    "max": 70,
+    "item": 266,
+    "min": 0,
+    "enabled": false
+  },
+  "advancedFriendHealer": {
+    "minMana": 60,
+    "itemHeal": true,
+    "minFriendHp": 40,
+    "id": 3160,
+    "enabled": false,
+    "distance": 8,
+    "spellHeal": true,
+    "spellName": "exura sio"
+  },
+  "autoAntiParalyzeText": "Speed Up",
+  "autoTradeMessage": "hi ",
+  "autoHealthItemPanel1": {
+    "max": 100,
+    "item": 13700,
+    "min": 0,
+    "enabled": false
+  },
+  "_macros": {
+    "": true,
+    "Fight Back": false,
+    "Converter dinheiro": true,
+    "SENZU MANA": true,
+    "follow target": false,
+    "SENZU VIDA": false,
+    "Level": false,
+    "Puxar item pra bag": false,
+    "Esconder Spells Laranja": false,
+    "Main BP Open": true,
+    "Auto Haste": true,
+    "phoenix": true,
+    "Attack Target": true,
+    "Anti-Push": false,
+    "Mystic Defense": true,
+    "Phoenix Heal": false,
+    "Bug Map": false,
+    "Stamina Infinita": true,
+    "Sense Target": false,
+    "Anti Paralyze": true,
+    "Follow tudo": false,
+    "Enemy": false,
+    "Combo": true,
+    "esconder sprite": false,
+    "Monstro Hp %": true,
+    "Follow": false,
+    "Power": false,
+    "Atacar Bichos": false,
+    "Auto !bol": true,
+    "Atacar Seguindo": false,
+    "Fast Regen": true,
+    "Buff": true
+  },
+  "Combo3Text": " it me",
+  "_configs": {
+    "targetbot_configs": {
+      "selected": "orther",
+      "enabled": true
+    },
+    "cavebot_configs": {
+      "selected": "dg_montain",
+      "enabled": true
+    }
+  },
+  "Combo6Text": "",
+  "RevideFight": {
+    "followTarget": true,
+    "esc": "Escape",
+    "pauseTarget": true,
+    "attackAll": false,
+    "pauseCave": true,
+    "pausedTarget": false,
+    "ignoreParty": true,
+    "enabled": true,
+    "pausedCave": false,
+    "ignoreGuild": true
+  },
+  "ingame_hotkeys2": "sprh = macro(100, \"esconder sprite\", function() end)\nonAddThing(function(tile, thing)\n    if sprh.isOff() then return end\n    if thing:isEffect() then\n        thing:hide()\n    end\nend) \nmacro(1000, \"Esconder Spells Laranja\", function()\nonStaticText(function(thing, text)\n    if not text:find('says:') then\n        g_map.cleanTexts()\n    end\nend)\nend)\nUI.Separator()\n\n\nmacro(250, \"Stamina Infinita\", function()\n    local Stamina = player:getStamina();\n    if (Stamina < 2401) then\n         use(11588) \n    end\nend) \n\n\nif player:getBlessings() == 0 then\nsay(\"!bless\")\nschedule(2000, function()\nif player:getBlessings() == 0 then\nerror(\"!! Blessings not bought !!\")\nend\nend)\nend\n\n\n\n\nmacro(1000, \"Auto !bol\", function()\n  if not getFinger() then\n      say('!bol')\n  end\nend)\n\n\nmacro(100, \"Puxar item pra bag\", function()\n  local tile = g_map.getTile(pos())\n  if tile then\n    for _, item in ipairs(tile:getItems()) do\n      if item:isPickupable() then\n        if g_game.move(item, {x=65535, y=SlotBack, z=0}, item:getCount()) then\n          delay(100)\n        end\n      end\n    end\n  end\nend)\n\n\nFollow = macro(1000,\"Follow tudo\",function()\n\nnome = storage.followLeader\nend)\n\nUI.Label(\"Follow Player:\")\naddTextEdit(\"playerToFollow\", storage.followLeader or \"Heeey\", function(widget, text)\n    storage.followLeader = text\n    target = tostring(text)\nend)\n\nnome = storage.followLeader\npos_p = player:getPosition()\n\np = getCreatureByName(nome)\n\nonCreaturePositionChange(function(creature, newPos, oldPos)\n    if Follow.isOn() then\n    \n        if creature:getName()==player:getName() and getCreatureByName(nome) == nil and newPos.z>oldPos.z then\n        \n            say('exani tera')\n            for i = -1,1 do\n              for j = -1,1 do\n            \n                local useTile = g_map.getTile({x=posx()+i,y=posy()+j,z=posz()})\n                 g_game.use(useTile:getTopUseThing())\n                \n            \n              end\n            end\n        end\n        if creature:getName()==nome then\n          \n            \n            if newPos==nil then\n                \n                \n                lastPos = oldPos\n                \n                schedule(200,function()\n                 autoWalk(oldPos)\n                end)\n                \n                schedule(1000,function()\n                    for i = -1,1 do\n                      for j = -1,1 do\n                    \n                        local useTile = g_map.getTile({x=posx()+i,y=posy()+j,z=posz()})\n                        g_game.use(useTile:getTopUseThing())\n                        \n                    \n                      end\n                    end\n                end)\n            \n            \n            end\n            \n            if oldPos.z == newPos.z then\n                     \n                schedule(300,function()\n                 local useTile = g_map.getTile({x=oldPos.x,y=oldPos.y,z=oldPos.z})\n                 topThing = useTile:getTopThing()\n                 \n                 if not useTile:isWalkable() then\n                   use(topThing)\n                 end\n                \n                end)\n            \n            \n                autoWalk({x=oldPos.x,y=oldPos.y,z=oldPos.z})\n            else\n            \n                lastPos = oldPos\n                autoWalk(oldPos)\n                for i = 1,6 do\n                    schedule(i*200,function()\n                      autoWalk(oldPos)\n                    \n                      if getDistanceBetween(pos(), oldPos) == 0 and (posz()>newPos.z and getCreatureByName(nome) == nil) then\n                        say('exani tera')\n                      end\n                    end)\n                end\n                local useTile = g_map.getTile({x=newPos.x,y=newPos.y-1,z=oldPos.z})\n                 g_game.use(useTile:getTopUseThing())\n                            \n            \n            end\n          \n        \n        end\n    \n    end\nend)\n\n\n\n",
+  "autoHasteText": "Speed Up",
+  "ComboText": "",
+  "timers": {
+    "time": 1
+  },
+  "healing5": {
+    "max": 50,
+    "title": "HP%",
+    "on": false,
+    "min": 0,
+    "text": "fuga"
+  },
+  "afkMsg": "MENSAGEM",
+  "clearing": false,
+  "alarms": {
+    "playerpk": false,
+    "playerDetected": true,
+    "creatureDetected": false,
+    "manaValue": 50,
+    "playerAttack": false,
+    "manaBelow": false,
+    "privateMessage": false,
+    "playerDetectedLogout": false,
+    "enabled": false,
+    "healthBelow": false,
+    "healthValue": 40
+  },
+  "_icons": {
+    "Buff": {
+      "y": 0.1093023255814,
+      "x": 0,
+      "enabled": true
+    },
+    "Combo": {
+      "y": 0.10697674418605,
+      "x": 0.04978354978355,
+      "enabled": true
+    },
+    "Sense": {
+      "y": 0.1046511627907,
+      "x": 0.10606060606061,
+      "enabled": false
+    }
+  },
+  "autofollow": {
+    "player": "name"
+  },
+  "Combo2Text": " fire flower",
+  "ingame_hotkeys": "local castBelowHp = 60\nlocal deactiveBelowMana = 50\nmacro(8, \"Mystic Defense\",  function()\n  if (hppercent() <= castBelowHp and manapercent() >= deactiveBelowMana and not hasManaShield()) then\n    say('Magic Shield')\n  end\n  if (manapercent() <= deactiveBelowMana and  hppercent() >= castBelowHp and hasManaShield()) then\n      say('Magic cancel')\n  end\nend)\n\nmacro(2500, \"Power\" , function()\nsay(\"Phoenix Blue Flame\")\nsay(\"Eternal Life Power\")\nend)\n\n\n\nlocal hpPercent = 90\nmacro(50, \"Fast Regen\",  function()\n  if (hppercent() <= hpPercent) then\n  say(\"big regeneration\")\nend\nend)\n\nlocal hpPercent = 98\nmacro(10, \"Phoenix Heal\",  function()\n  if (hppercent() <= hpPercent) then\n  say(storage.HealText)\nend\nend)\naddTextEdit(\"HealText\", storage.HealText or \"big regeneration\", function(widget, text) \nstorage.HealText = text\nend)\n\n\n\n\n\nlocal manaId = 3149\nlocal manaPercent = 90\nmacro(300, \"SENZU MANA\",  function()\n  if (manapercent() <= manaPercent) then\n    usewith(manaId, player) \n  end\nend)\n\nlocal healthId = 3148\nlocal healthPercent = 70\nmacro(300, \"SENZU VIDA\",  function()\n  if (hppercent() <= healthPercent) then\n    usewith(healthId, player) \n  end\nend)\n\nlocal playerPos = pos()\nonKeyPress(function(keys)\n  if keys == \"Up\" then\n    turn(0)\n    playerPos = pos()\n    playerPos.y = playerPos.y - 5\n    use(g_map.getTile(playerPos):getTopUseThing())\n  elseif keys == \"Down\" then\n    turn(2)\n    playerPos = pos()\n    playerPos.y = playerPos.y + 5\n    use(g_map.getTile(playerPos):getTopUseThing())\n  elseif keys == \"Left\" then\n    turn(3)\n    playerPos = pos()\n    playerPos.x = playerPos.x - 5\n    use(g_map.getTile(playerPos):getTopUseThing())\n  elseif keys == \"Right\" then\n    turn(1)\n    playerPos = pos()\n    playerPos.x = playerPos.x + 5\n    use(g_map.getTile(playerPos):getTopUseThing())\n  end\nend)\n\n\n",
+  "autoHealthPanel1": {
+    "max": 80,
+    "item": 266,
+    "enabled": false,
+    "min": 0,
+    "text": "big Regeneration"
+  },
+  "moneyItems": [
+    {
+      "count": 1,
+      "id": 3031
+    },
+    {
+      "count": 1,
+      "id": 3035
+    },
+    {
+      "count": 22,
+      "id": 12617
+    }
+  ],
+  "HealText": "Phoenix Heal \"Lord Mata Puta\"",
+  "Combo5Text": "",
+  "autoManaItemPanel1": {
+    "max": 60,
+    "item": 268,
+    "min": 0
+  },
+  "playerList": {
+    "enemyList": [
+
+    ],
+    "outfits": false,
+    "friendList": [
+
+    ],
+    "blackList": [
+
+    ],
+    "marks": false,
+    "groupMembers": true
+  },
+  "buff": "sness superior",
+  "Combo4Text": "snes power",
+  "healing4": {
+    "max": 70,
+    "title": "HP%",
+    "on": false,
+    "min": 0,
+    "text": "fuga"
+  },
+  "healing3": {
+    "max": 80,
+    "title": "HP%",
+    "on": false,
+    "min": 0,
+    "text": "fuga"
+  }
+}

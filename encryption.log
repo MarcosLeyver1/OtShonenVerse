@@ -1,0 +1,2346 @@
+----------------------
+init.lua - encrypted
+data\cursors\cursors.otml - encrypted
+data\cursors\horizontalcursor.png - encrypted
+data\cursors\pointer.png - encrypted
+data\cursors\targetcursor.png - encrypted
+data\cursors\textcursor.png - encrypted
+data\cursors\verticalcursor.png - encrypted
+data\fonts\cipsoftFont.otfont - encrypted
+data\fonts\cipsoftFont.png - encrypted
+data\fonts\damas.otfont - encrypted
+data\fonts\damas.png - encrypted
+data\fonts\jonts-13px-bold-anti.otfont - encrypted
+data\fonts\jonts-13px-bold-anti.png - encrypted
+data\fonts\jonts-14px-anti.otfont - encrypted
+data\fonts\jonts-14px-anti.png - encrypted
+data\fonts\jonts-14px-semibold-anti.otfont - encrypted
+data\fonts\jonts-14px-semibold-anti.png - encrypted
+data\fonts\lucida-11px-rounded.otfont - encrypted
+data\fonts\lucida-11px-rounded_cp1252.png - encrypted
+data\fonts\montserrat-18.otfont - encrypted
+data\fonts\montserrat-18.png - encrypted
+data\fonts\Montserrat_bold_14.otfont - encrypted
+data\fonts\Montserrat_bold_14.png - encrypted
+data\fonts\newfont-16px-rounded.otfont - encrypted
+data\fonts\newfont-16px-rounded_cp1250.png - encrypted
+data\fonts\sans-bold-16px-rounded.otfont - encrypted
+data\fonts\sans-bold-16px-rounded_cp1252.png - encrypted
+data\fonts\sans-bold-16px.otfont - encrypted
+data\fonts\sans-bold-16px_cp1252.png - encrypted
+data\fonts\small-9px.otfont - encrypted
+data\fonts\small-9px.png - encrypted
+data\fonts\sono_bold_border_14.otfont - encrypted
+data\fonts\sono_bold_border_14.png - encrypted
+data\fonts\sono_medium_border_14.otfont - encrypted
+data\fonts\sono_medium_border_14.png - encrypted
+data\fonts\sono_medium_border_14_name.otfont - encrypted
+data\fonts\sono_medium_border_14_name.png - encrypted
+data\fonts\start_big.otfont - encrypted
+data\fonts\start_big.png - encrypted
+data\fonts\start_medium.otfont - encrypted
+data\fonts\start_medium.png - encrypted
+data\fonts\start_small.otfont - encrypted
+data\fonts\start_small.png - encrypted
+data\fonts\terminus-10px.otfont - encrypted
+data\fonts\terminus-10px.png - encrypted
+data\fonts\terminus-14px-bold.otfont - encrypted
+data\fonts\terminus-14px-bold.png - encrypted
+data\fonts\verdana-11px-antialised.otfont - encrypted
+data\fonts\verdana-11px-antialised_cp1250.png - encrypted
+data\fonts\verdana-11px-antialised_cp1252.png - encrypted
+data\fonts\verdana-11px-monochrome.otfont - encrypted
+data\fonts\verdana-11px-monochrome_cp1250.png - encrypted
+data\fonts\verdana-11px-monochrome_cp1252.png - encrypted
+data\fonts\verdana-11px-rounded.otfont - encrypted
+data\fonts\verdana-11px-rounded_cp1250.png - encrypted
+data\fonts\verdana-11px-rounded_cp1252.png - encrypted
+data\fonts\verdana-9px-bold.otfont - encrypted
+data\fonts\verdana-9px-bold.png - encrypted
+data\fonts\verdana-9px-italic.otfont - encrypted
+data\fonts\verdana-9px-italic.png - encrypted
+data\fonts\verdana-9px.otfont - encrypted
+data\fonts\verdana-9px.png - encrypted
+data\images\backaura\BlueAur - Copia.png - encrypted
+data\images\backaura\BlueAur.png - encrypted
+data\images\backaura\BlueMoonl.png - encrypted
+data\images\backaura\CirclaAur.png - encrypted
+data\images\backaura\Dark.png - encrypted
+data\images\backaura\ForceAur.png - encrypted
+data\images\backaura\GoldenAura.png - encrypted
+data\images\backaura\PinkMoonl.png - encrypted
+data\images\backaura\PsychAur.png - encrypted
+data\images\backaura\Raios.png - encrypted
+data\images\backaura\RedMoonl.png - encrypted
+data\images\backaura\SkyAur.png - encrypted
+data\images\backaura\SuperSayajin.png - encrypted
+data\images\backaura\SuperSayajin2.png - encrypted
+data\images\backaura\unlocked.png - encrypted
+data\images\backaura\YelowAur.png - encrypted
+data\images\background.png - encrypted
+data\images\bars\Aqua.png - encrypted
+data\images\bars\Blaze.png - encrypted
+data\images\bars\Darkblaze.png - encrypted
+data\images\bars\Discord.png - encrypted
+data\images\bars\Eletric.png - encrypted
+data\images\bars\Esfera.png - encrypted
+data\images\bars\Fire.png - encrypted
+data\images\bars\Frags.png - encrypted
+data\images\bars\Ghost.png - encrypted
+data\images\bars\Greendetect.png - encrypted
+data\images\bars\Ground.png - encrypted
+data\images\bars\locked.png - encrypted
+data\images\bars\Plin.png - encrypted
+data\images\bars\Purple.png - encrypted
+data\images\bars\Rain.png - encrypted
+data\images\bars\Rainbown.png - encrypted
+data\images\bars\Shadowblaze.png - encrypted
+data\images\bars\Shenlong.png - encrypted
+data\images\bars\Storm.png - encrypted
+data\images\bars\unlocked.png - encrypted
+data\images\bars2\Akamaru.png - encrypted
+data\images\bars2\akatsuki.png - encrypted
+data\images\bars2\Amaterasu.png - encrypted
+data\images\bars2\beta.png - encrypted
+data\images\bars2\bow - Cópia.png - encrypted
+data\images\bars2\Bow.png - encrypted
+data\images\bars2\Brilhante.png - encrypted
+data\images\bars2\Chidori.png - encrypted
+data\images\bars2\chuva.png - encrypted
+data\images\bars2\ChuvaLama.png - encrypted
+data\images\bars2\Cloud Bar.png - encrypted
+data\images\bars2\coud.png - encrypted
+data\images\bars2\Dark.png - encrypted
+data\images\bars2\darkbar.png - encrypted
+data\images\bars2\Darkness.png - encrypted
+data\images\bars2\Effect1.png - encrypted
+data\images\bars2\Effect2.png - encrypted
+data\images\bars2\Effect3.png - encrypted
+data\images\bars2\Effect4.png - encrypted
+data\images\bars2\Effect5.png - encrypted
+data\images\bars2\Energy Light Sphere Bar.png - encrypted
+data\images\bars2\Energy Sphere Bar.png - encrypted
+data\images\bars2\escuro.png - encrypted
+data\images\bars2\Estrela.png - encrypted
+data\images\bars2\Fenix.png - encrypted
+data\images\bars2\Fire.png - encrypted
+data\images\bars2\fogo.png - encrypted
+data\images\bars2\fogos.png - encrypted
+data\images\bars2\Foguinho.png - encrypted
+data\images\bars2\Ghost.png - encrypted
+data\images\bars2\Gobi.png - encrypted
+data\images\bars2\Gorro.png - encrypted
+data\images\bars2\Guirlanda.png - encrypted
+data\images\bars2\Hachibi.png - encrypted
+data\images\bars2\health1.png - encrypted
+data\images\bars2\healthbar.png - encrypted
+data\images\bars2\healthbarfill.png - encrypted
+data\images\bars2\healtsh1.png - encrypted
+data\images\bars2\Heavenly Ki Health Bar.png - encrypted
+data\images\bars2\Hokage Novo.png - encrypted
+data\images\bars2\Hokage.png - encrypted
+data\images\bars2\Juubi.png - encrypted
+data\images\bars2\Kakuzo - Copy.png - encrypted
+data\images\bars2\Kakuzo.png - encrypted
+data\images\bars2\Kazekage Novo.png - encrypted
+data\images\bars2\Kazekage.png - encrypted
+data\images\bars2\Kurama.png - encrypted
+data\images\bars2\kurama2.png - encrypted
+data\images\bars2\Laranja.png - encrypted
+data\images\bars2\Majestic Sphere Bar.png - encrypted
+data\images\bars2\mana1.png - encrypted
+data\images\bars2\manabar.png - encrypted
+data\images\bars2\Mizukage Novo.png - encrypted
+data\images\bars2\Mizukage.png - encrypted
+data\images\bars2\Namekian Dragon Bar.png - encrypted
+data\images\bars2\Nanabi.png - encrypted
+data\images\bars2\Natal.png - encrypted
+data\images\bars2\Nibi.png - encrypted
+data\images\bars2\Papainoel.png - encrypted
+data\images\bars2\Party.png - encrypted
+data\images\bars2\pary.png - encrypted
+data\images\bars2\Pingo.png - encrypted
+data\images\bars2\Pirata.png - encrypted
+data\images\bars2\Piscapisca.png - encrypted
+data\images\bars2\pochita.png - encrypted
+data\images\bars2\Prata.png - encrypted
+data\images\bars2\Preto.png - encrypted
+data\images\bars2\Raikage Novo.png - encrypted
+data\images\bars2\Raikage.png - encrypted
+data\images\bars2\Rainbow.png - encrypted
+data\images\bars2\rainbow2.png - encrypted
+data\images\bars2\Raio.png - encrypted
+data\images\bars2\Rikudou One.png - encrypted
+data\images\bars2\Rikudou Two.png - encrypted
+data\images\bars2\rikudou1.png - encrypted
+data\images\bars2\rikudou2.png - encrypted
+data\images\bars2\Rokubi.png - encrypted
+data\images\bars2\Roxo.png - encrypted
+data\images\bars2\Sanbi.png - encrypted
+data\images\bars2\Shaolin.png - encrypted
+data\images\bars2\Shenlong Dragon Bar Light.png - encrypted
+data\images\bars2\Shenlong Dragon Bar.png - encrypted
+data\images\bars2\Shukaku.png - encrypted
+data\images\bars2\Simples.png - encrypted
+data\images\bars2\SonGoku.png - encrypted
+data\images\bars2\Susanoo.png - encrypted
+data\images\bars2\Tsuchikage Novo.png - encrypted
+data\images\bars2\Tsuchikage.png - encrypted
+data\images\bars2\Unknown.png - encrypted
+data\images\battle\battle_monsters.png - encrypted
+data\images\battle\battle_npcs.png - encrypted
+data\images\battle\battle_party.png - encrypted
+data\images\battle\battle_party1.png - encrypted
+data\images\battle\battle_players.png - encrypted
+data\images\battle\battle_skulls.png - encrypted
+data\images\battle\battle_skulls1.png - encrypted
+data\images\borders\item_legendary.png - encrypted
+data\images\borders\rarity_blue.png - encrypted
+data\images\borders\rarity_green.png - encrypted
+data\images\borders\rarity_legendary.png - encrypted
+data\images\borders\rarity_purple.png - encrypted
+data\images\borders\rarity_white.png - encrypted
+data\images\changevocation\1106.png - encrypted
+data\images\changevocation\1151.png - encrypted
+data\images\changevocation\1168.png - encrypted
+data\images\changevocation\1247.png - encrypted
+data\images\changevocation\1299.png - encrypted
+data\images\changevocation\1304.png - encrypted
+data\images\changevocation\137.png - encrypted
+data\images\changevocation\301.png - encrypted
+data\images\changevocation\309.png - encrypted
+data\images\changevocation\346.png - encrypted
+data\images\changevocation\716.png - encrypted
+data\images\changevocation\728.png - encrypted
+data\images\changevocation\893.png - encrypted
+data\images\changevocation\951.png - encrypted
+data\images\changevocation\953.png - encrypted
+data\images\changevocation\Sem Título-1.png - encrypted
+data\images\changevocation2\1106.png - encrypted
+data\images\changevocation2\1151.png - encrypted
+data\images\changevocation2\1168.png - encrypted
+data\images\changevocation2\1247.png - encrypted
+data\images\changevocation2\1299.png - encrypted
+data\images\changevocation2\1304.png - encrypted
+data\images\changevocation2\137.png - encrypted
+data\images\changevocation2\301.png - encrypted
+data\images\changevocation2\309.png - encrypted
+data\images\changevocation2\346.png - encrypted
+data\images\changevocation2\716.png - encrypted
+data\images\changevocation2\728.png - encrypted
+data\images\changevocation2\893.png - encrypted
+data\images\changevocation2\951.png - encrypted
+data\images\changevocation2\953.png - encrypted
+data\images\changevocation2\Sem Título-2.png - encrypted
+data\images\clienticon.png - encrypted
+data\images\crosshair\default.png - encrypted
+data\images\crosshair\full.png - encrypted
+data\images\entergame\scrollbar.png - encrypted
+data\images\flags\de.png - encrypted
+data\images\flags\en.png - encrypted
+data\images\flags\es.png - encrypted
+data\images\flags\pl.png - encrypted
+data\images\flags\pt.png - encrypted
+data\images\flags\sv.png - encrypted
+data\images\game\actionbar\actionbarslot.png - encrypted
+data\images\game\actionbar\arrow-disabled.png - encrypted
+data\images\game\actionbar\arrow-skip-disabled.png - encrypted
+data\images\game\actionbar\arrow-skip.png - encrypted
+data\images\game\actionbar\arrow.png - encrypted
+data\images\game\actionbar\locked.png - encrypted
+data\images\game\actionbar\unlocked.png - encrypted
+data\images\game\actionbarslot.png - encrypted
+data\images\game\badges\boulder_badge_off.png - encrypted
+data\images\game\badges\boulder_badge_on.png - encrypted
+data\images\game\badges\cascade_badge_off.png - encrypted
+data\images\game\badges\cascade_badge_on.png - encrypted
+data\images\game\badges\earth_badge_off.png - encrypted
+data\images\game\badges\earth_badge_on.png - encrypted
+data\images\game\badges\marsh_badge_off.png - encrypted
+data\images\game\badges\marsh_badge_on.png - encrypted
+data\images\game\badges\rainbow_badge_off.png - encrypted
+data\images\game\badges\rainbow_badge_on.png - encrypted
+data\images\game\badges\soul_badge_off.png - encrypted
+data\images\game\badges\soul_badge_on.png - encrypted
+data\images\game\badges\thunder_badge_off.png - encrypted
+data\images\game\badges\thunder_badge_on.png - encrypted
+data\images\game\badges\volcano_badge_off.png - encrypted
+data\images\game\badges\volcano_badge_on.png - encrypted
+data\images\game\battle\battle_guild.png - encrypted
+data\images\game\battle\battle_monsters.png - encrypted
+data\images\game\battle\battle_npcs.png - encrypted
+data\images\game\battle\battle_party.png - encrypted
+data\images\game\battle\battle_party1.png - encrypted
+data\images\game\battle\battle_players.png - encrypted
+data\images\game\battle\battle_skulls.png - encrypted
+data\images\game\battle\battle_skulls1.png - encrypted
+data\images\game\battle\camera.png - encrypted
+data\images\game\battle\dead.png - encrypted
+data\images\game\battle\dead2.png - encrypted
+data\images\game\battle\ditto.png - encrypted
+data\images\game\battle\dittoForm.png - encrypted
+data\images\game\battle\dittoFormOff.png - encrypted
+data\images\game\battle\iconDitto.png - encrypted
+data\images\game\battle\password.png - encrypted
+data\images\game\chat\background.png - encrypted
+data\images\game\chat\background2.png - encrypted
+data\images\game\chat\channelButtons.png - encrypted
+data\images\game\chat\configSmall.png - encrypted
+data\images\game\chat\emoticon_background.png - encrypted
+data\images\game\chat\enterBackground.png - encrypted
+data\images\game\chat\icons\channels.png - encrypted
+data\images\game\chat\icons\clearchannel.png - encrypted
+data\images\game\chat\icons\closechannel.png - encrypted
+data\images\game\chat\icons\downarrow.png - encrypted
+data\images\game\chat\icons\emotes.png - encrypted
+data\images\game\chat\icons\emote_light.png - encrypted
+data\images\game\chat\icons\ignore.png - encrypted
+data\images\game\chat\icons\leftarrow.png - encrypted
+data\images\game\chat\icons\rightarrow.png - encrypted
+data\images\game\chat\icons\say.png - encrypted
+data\images\game\chat\icons\uparrow.png - encrypted
+data\images\game\chat\icons\whisper.png - encrypted
+data\images\game\chat\icons\yell.png - encrypted
+data\images\game\chat\lockSmall.png - encrypted
+data\images\game\chat\scrollBar.png - encrypted
+data\images\game\chat\scrollbar2.png - encrypted
+data\images\game\chat\send.png - encrypted
+data\images\game\chat\slider.png - encrypted
+data\images\game\chat\slider2.png - encrypted
+data\images\game\chat\tabBarButtons.png - encrypted
+data\images\game\chat\textBackground.png - encrypted
+data\images\game\chat\textLineWindow.png - encrypted
+data\images\game\chat\txtline.png - encrypted
+data\images\game\chat\unlockSmall.png - encrypted
+data\images\game\circle\left_empty.png - encrypted
+data\images\game\circle\left_full.png - encrypted
+data\images\game\circle\right_empty.png - encrypted
+data\images\game\circle\right_full.png - encrypted
+data\images\game\combatmodes\chasemode.png - encrypted
+data\images\game\combatmodes\fightbalanced.png - encrypted
+data\images\game\combatmodes\fightdefensive.png - encrypted
+data\images\game\combatmodes\fightoffensive.png - encrypted
+data\images\game\combatmodes\mount.png - encrypted
+data\images\game\combatmodes\pvp.png - encrypted
+data\images\game\combatmodes\redfistmode.png - encrypted
+data\images\game\combatmodes\safefight.png - encrypted
+data\images\game\combatmodes\whitedovemode.png - encrypted
+data\images\game\combatmodes\whitehandmode.png - encrypted
+data\images\game\combatmodes\yellowhandmode.png - encrypted
+data\images\game\console\channels.png - encrypted
+data\images\game\console\clearchannel.png - encrypted
+data\images\game\console\closechannel.png - encrypted
+data\images\game\console\downarrow.png - encrypted
+data\images\game\console\hide.png - encrypted
+data\images\game\console\ignore.png - encrypted
+data\images\game\console\leftarrow.png - encrypted
+data\images\game\console\rightarrow.png - encrypted
+data\images\game\console\say.png - encrypted
+data\images\game\console\uparrow.png - encrypted
+data\images\game\console\whisper.png - encrypted
+data\images\game\console\yell.png - encrypted
+data\images\game\creaturetype\summon_other.png - encrypted
+data\images\game\creaturetype\summon_own.png - encrypted
+data\images\game\dangerous.png - encrypted
+data\images\game\duel\pokeball_off.png - encrypted
+data\images\game\duel\pokeball_on.png - encrypted
+data\images\game\emblems\emblem_blue.png - encrypted
+data\images\game\emblems\emblem_green.png - encrypted
+data\images\game\emblems\emblem_member.png - encrypted
+data\images\game\emblems\emblem_other.png - encrypted
+data\images\game\emblems\emblem_red.png - encrypted
+data\images\game\expbar.png - encrypted
+data\images\game\floor.png - encrypted
+data\images\game\house\not_ocupped.png - encrypted
+data\images\game\house\not_ocupped1.png - encrypted
+data\images\game\house\ocupped.png - encrypted
+data\images\game\house\ocupped1.png - encrypted
+data\images\game\hpbar.png - encrypted
+data\images\game\imbuing\100percent.png - encrypted
+data\images\game\imbuing\clear.png - encrypted
+data\images\game\imbuing\imbue_empty.png - encrypted
+data\images\game\imbuing\imbue_green.png - encrypted
+data\images\game\imbuing\slot.png - encrypted
+data\images\game\imbuing\slot_disabled.png - encrypted
+data\images\game\imbuing\slot_inactive.png - encrypted
+data\images\game\minimap\10 - Copia.png - encrypted
+data\images\game\minimap\10.png - encrypted
+data\images\game\minimap\charizard.png - encrypted
+data\images\game\minimap\cross.png - encrypted
+data\images\game\minimap\flag0.png - encrypted
+data\images\game\minimap\flag1.png - encrypted
+data\images\game\minimap\flag10.png - encrypted
+data\images\game\minimap\flag11.png - encrypted
+data\images\game\minimap\flag12.png - encrypted
+data\images\game\minimap\flag13.png - encrypted
+data\images\game\minimap\flag14.png - encrypted
+data\images\game\minimap\flag15.png - encrypted
+data\images\game\minimap\flag16.png - encrypted
+data\images\game\minimap\flag17.png - encrypted
+data\images\game\minimap\flag18.png - encrypted
+data\images\game\minimap\flag19.png - encrypted
+data\images\game\minimap\flag2.png - encrypted
+data\images\game\minimap\flag20.png - encrypted
+data\images\game\minimap\flag21.png - encrypted
+data\images\game\minimap\flag3.png - encrypted
+data\images\game\minimap\flag4.png - encrypted
+data\images\game\minimap\flag5.png - encrypted
+data\images\game\minimap\flag6.png - encrypted
+data\images\game\minimap\flag7.png - encrypted
+data\images\game\minimap\flag8.png - encrypted
+data\images\game\minimap\flag9.png - encrypted
+data\images\game\minimap\flagcharizard.png - encrypted
+data\images\game\minimap\flagcheckbox.png - encrypted
+data\images\game\minimap\floor_down.png - encrypted
+data\images\game\minimap\floor_up.png - encrypted
+data\images\game\minimap\map.png - encrypted
+data\images\game\minimap\teste.png - encrypted
+data\images\game\minimap\zoom_in.png - encrypted
+data\images\game\minimap\zoom_out.png - encrypted
+data\images\game\mobile\attack.png - encrypted
+data\images\game\mobile\chat.png - encrypted
+data\images\game\mobile\correr.png - encrypted
+data\images\game\mobile\follow.png - encrypted
+data\images\game\mobile\keypad.png - encrypted
+data\images\game\mobile\keypad_pointer.png - encrypted
+data\images\game\mobile\look.png - encrypted
+data\images\game\mobile\moves.png - encrypted
+data\images\game\mobile\use.png - encrypted
+data\images\game\newtarget.png - encrypted
+data\images\game\npcicons\25.png - encrypted
+data\images\game\npcicons\26.png - encrypted
+data\images\game\npcicons\27.png - encrypted
+data\images\game\npcicons\28.png - encrypted
+data\images\game\npcicons\icon_chat.png - encrypted
+data\images\game\npcicons\icon_quest.png - encrypted
+data\images\game\npcicons\icon_trade.png - encrypted
+data\images\game\npcicons\icon_tradequest.png - encrypted
+data\images\game\outfits\notavailable.png - encrypted
+data\images\game\outfits\notowned.png - encrypted
+data\images\game\outfits\notowned2.png - encrypted
+data\images\game\outfits\notowned3.png - encrypted
+data\images\game\outfits\notowned4.png - encrypted
+data\images\game\outfits\notowned5.png - encrypted
+data\images\game\playerInfo\autowalk.png - encrypted
+data\images\game\playerInfo\cdbar\h1.png - encrypted
+data\images\game\playerInfo\cdbar\h10.png - encrypted
+data\images\game\playerInfo\cdbar\h11.png - encrypted
+data\images\game\playerInfo\cdbar\h12.png - encrypted
+data\images\game\playerInfo\cdbar\h2.png - encrypted
+data\images\game\playerInfo\cdbar\h3.png - encrypted
+data\images\game\playerInfo\cdbar\h4.png - encrypted
+data\images\game\playerInfo\cdbar\h5.png - encrypted
+data\images\game\playerInfo\cdbar\h6.png - encrypted
+data\images\game\playerInfo\cdbar\h7.png - encrypted
+data\images\game\playerInfo\cdbar\h8.png - encrypted
+data\images\game\playerInfo\cdbar\h9.png - encrypted
+data\images\game\playerInfo\cdbar\v1.png - encrypted
+data\images\game\playerInfo\cdbar\v10.png - encrypted
+data\images\game\playerInfo\cdbar\v11.png - encrypted
+data\images\game\playerInfo\cdbar\v12.png - encrypted
+data\images\game\playerInfo\cdbar\v2.png - encrypted
+data\images\game\playerInfo\cdbar\v3.png - encrypted
+data\images\game\playerInfo\cdbar\v4.png - encrypted
+data\images\game\playerInfo\cdbar\v5.png - encrypted
+data\images\game\playerInfo\cdbar\v6.png - encrypted
+data\images\game\playerInfo\cdbar\v7.png - encrypted
+data\images\game\playerInfo\cdbar\v8.png - encrypted
+data\images\game\playerInfo\cdbar\v9.png - encrypted
+data\images\game\playerInfo\lockSmall.png - encrypted
+data\images\game\playerInfo\unlockSmall.png - encrypted
+data\images\game\prey\prey_bigdamage.png - encrypted
+data\images\game\prey\prey_bigdefense.png - encrypted
+data\images\game\prey\prey_biginactive.png - encrypted
+data\images\game\prey\prey_bigloot.png - encrypted
+data\images\game\prey\prey_bignobonus.png - encrypted
+data\images\game\prey\prey_bigxp.png - encrypted
+data\images\game\prey\prey_bonus_reroll.png - encrypted
+data\images\game\prey\prey_choose.png - encrypted
+data\images\game\prey\prey_damage.png - encrypted
+data\images\game\prey\prey_defense.png - encrypted
+data\images\game\prey\prey_gold.png - encrypted
+data\images\game\prey\prey_inactive.png - encrypted
+data\images\game\prey\prey_loot.png - encrypted
+data\images\game\prey\prey_nostar.png - encrypted
+data\images\game\prey\prey_no_bonus.png - encrypted
+data\images\game\prey\prey_perm.png - encrypted
+data\images\game\prey\prey_perm_test.png - encrypted
+data\images\game\prey\prey_reroll.png - encrypted
+data\images\game\prey\prey_reroll_blocked.png - encrypted
+data\images\game\prey\prey_select.png - encrypted
+data\images\game\prey\prey_select_blocked.png - encrypted
+data\images\game\prey\prey_smallstore.png - encrypted
+data\images\game\prey\prey_star.png - encrypted
+data\images\game\prey\prey_temp.png - encrypted
+data\images\game\prey\prey_temp_test.png - encrypted
+data\images\game\prey\prey_wildcard.png - encrypted
+data\images\game\prey\prey_xp.png - encrypted
+data\images\game\raritys\rarity_commum.png - encrypted
+data\images\game\raritys\rarity_epic.png - encrypted
+data\images\game\raritys\rarity_legendary.png - encrypted
+data\images\game\raritys\rarity_rare.png - encrypted
+data\images\game\raritys\rarity_uncommum.png - encrypted
+data\images\game\shields\shield_blue.png - encrypted
+data\images\game\shields\shield_blue_not_shared.png - encrypted
+data\images\game\shields\shield_blue_shared.png - encrypted
+data\images\game\shields\shield_blue_white.png - encrypted
+data\images\game\shields\shield_gray.png - encrypted
+data\images\game\shields\shield_yellow.png - encrypted
+data\images\game\shields\shield_yellow_not_shared.png - encrypted
+data\images\game\shields\shield_yellow_shared.png - encrypted
+data\images\game\shields\shield_yellow_white.png - encrypted
+data\images\game\skulls\green.png - encrypted
+data\images\game\skulls\orange.png - encrypted
+data\images\game\skulls\red.png - encrypted
+data\images\game\skulls\skull_black.png - encrypted
+data\images\game\skulls\skull_green.png - encrypted
+data\images\game\skulls\skull_orange.png - encrypted
+data\images\game\skulls\skull_red.png - encrypted
+data\images\game\skulls\skull_white.png - encrypted
+data\images\game\skulls\skull_white.png.png - encrypted
+data\images\game\skulls\skull_yellow.png - encrypted
+data\images\game\skulls\star.png - encrypted
+data\images\game\skulls\white.png - encrypted
+data\images\game\skulls\yellow.png - encrypted
+data\images\game\skull_socket.png - encrypted
+data\images\game\slots\0.png - encrypted
+data\images\game\slots\ammo-blessed.png - encrypted
+data\images\game\slots\ammo.png - encrypted
+data\images\game\slots\armor.png - encrypted
+data\images\game\slots\back-blessed.png - encrypted
+data\images\game\slots\back.png - encrypted
+data\images\game\slots\base.png - encrypted
+data\images\game\slots\belt.png - encrypted
+data\images\game\slots\body-blessed.png - encrypted
+data\images\game\slots\body.png - encrypted
+data\images\game\slots\coins.png - encrypted
+data\images\game\slots\feet-blessed.png - encrypted
+data\images\game\slots\feet.png - encrypted
+data\images\game\slots\finger-blessed.png - encrypted
+data\images\game\slots\finger.png - encrypted
+data\images\game\slots\head-blessed.png - encrypted
+data\images\game\slots\head.png - encrypted
+data\images\game\slots\left-hand-blessed.png - encrypted
+data\images\game\slots\left-hand.png - encrypted
+data\images\game\slots\legs-blessed.png - encrypted
+data\images\game\slots\legs.png - encrypted
+data\images\game\slots\menubox.png - encrypted
+data\images\game\slots\neck-blessed.png - encrypted
+data\images\game\slots\neck.png - encrypted
+data\images\game\slots\purse.png - encrypted
+data\images\game\slots\right-hand-blessed.png - encrypted
+data\images\game\slots\right-hand-blessedd.png - encrypted
+data\images\game\slots\right-hand.png - encrypted
+data\images\game\slots\ring.png - encrypted
+data\images\game\slots\soulcap.png - encrypted
+data\images\game\spells\1.png - encrypted
+data\images\game\spells\10.png - encrypted
+data\images\game\spells\100.png - encrypted
+data\images\game\spells\101.png - encrypted
+data\images\game\spells\102.png - encrypted
+data\images\game\spells\103.png - encrypted
+data\images\game\spells\104.png - encrypted
+data\images\game\spells\105.png - encrypted
+data\images\game\spells\106.png - encrypted
+data\images\game\spells\107.png - encrypted
+data\images\game\spells\108.png - encrypted
+data\images\game\spells\109.png - encrypted
+data\images\game\spells\11.png - encrypted
+data\images\game\spells\112.png - encrypted
+data\images\game\spells\113.png - encrypted
+data\images\game\spells\114.png - encrypted
+data\images\game\spells\115.png - encrypted
+data\images\game\spells\117.png - encrypted
+data\images\game\spells\118.png - encrypted
+data\images\game\spells\12.png - encrypted
+data\images\game\spells\120.png - encrypted
+data\images\game\spells\123.png - encrypted
+data\images\game\spells\124.png - encrypted
+data\images\game\spells\125.png - encrypted
+data\images\game\spells\126.png - encrypted
+data\images\game\spells\129.png - encrypted
+data\images\game\spells\13.png - encrypted
+data\images\game\spells\130.png - encrypted
+data\images\game\spells\131.png - encrypted
+data\images\game\spells\132.png - encrypted
+data\images\game\spells\133.png - encrypted
+data\images\game\spells\134.png - encrypted
+data\images\game\spells\135.png - encrypted
+data\images\game\spells\137.png - encrypted
+data\images\game\spells\138.png - encrypted
+data\images\game\spells\139.png - encrypted
+data\images\game\spells\14.png - encrypted
+data\images\game\spells\140.png - encrypted
+data\images\game\spells\141.png - encrypted
+data\images\game\spells\142.png - encrypted
+data\images\game\spells\143.png - encrypted
+data\images\game\spells\144.png - encrypted
+data\images\game\spells\145.png - encrypted
+data\images\game\spells\146.png - encrypted
+data\images\game\spells\147.png - encrypted
+data\images\game\spells\148.png - encrypted
+data\images\game\spells\149.png - encrypted
+data\images\game\spells\15.png - encrypted
+data\images\game\spells\150.png - encrypted
+data\images\game\spells\151.png - encrypted
+data\images\game\spells\152.png - encrypted
+data\images\game\spells\153.png - encrypted
+data\images\game\spells\154.png - encrypted
+data\images\game\spells\155.png - encrypted
+data\images\game\spells\157.png - encrypted
+data\images\game\spells\16.png - encrypted
+data\images\game\spells\160.png - encrypted
+data\images\game\spells\161.png - encrypted
+data\images\game\spells\162.png - encrypted
+data\images\game\spells\163.png - encrypted
+data\images\game\spells\166.png - encrypted
+data\images\game\spells\167.png - encrypted
+data\images\game\spells\168.png - encrypted
+data\images\game\spells\169.png - encrypted
+data\images\game\spells\17.png - encrypted
+data\images\game\spells\170.png - encrypted
+data\images\game\spells\171.png - encrypted
+data\images\game\spells\172.png - encrypted
+data\images\game\spells\173.png - encrypted
+data\images\game\spells\174.png - encrypted
+data\images\game\spells\175.png - encrypted
+data\images\game\spells\176.png - encrypted
+data\images\game\spells\177.png - encrypted
+data\images\game\spells\178.png - encrypted
+data\images\game\spells\179.png - encrypted
+data\images\game\spells\180.png - encrypted
+data\images\game\spells\181.png - encrypted
+data\images\game\spells\182.png - encrypted
+data\images\game\spells\183.png - encrypted
+data\images\game\spells\184.png - encrypted
+data\images\game\spells\185.png - encrypted
+data\images\game\spells\186.png - encrypted
+data\images\game\spells\187.png - encrypted
+data\images\game\spells\188.png - encrypted
+data\images\game\spells\189.png - encrypted
+data\images\game\spells\190.png - encrypted
+data\images\game\spells\191.png - encrypted
+data\images\game\spells\192.png - encrypted
+data\images\game\spells\193.png - encrypted
+data\images\game\spells\194.png - encrypted
+data\images\game\spells\195.png - encrypted
+data\images\game\spells\196.png - encrypted
+data\images\game\spells\197.png - encrypted
+data\images\game\spells\198.png - encrypted
+data\images\game\spells\199.png - encrypted
+data\images\game\spells\2.png - encrypted
+data\images\game\spells\20.png - encrypted
+data\images\game\spells\200.png - encrypted
+data\images\game\spells\201.png - encrypted
+data\images\game\spells\202.png - encrypted
+data\images\game\spells\204.png - encrypted
+data\images\game\spells\206.png - encrypted
+data\images\game\spells\208.png - encrypted
+data\images\game\spells\21.png - encrypted
+data\images\game\spells\210.png - encrypted
+data\images\game\spells\211.png - encrypted
+data\images\game\spells\212.png - encrypted
+data\images\game\spells\213.png - encrypted
+data\images\game\spells\216.png - encrypted
+data\images\game\spells\217.png - encrypted
+data\images\game\spells\218.png - encrypted
+data\images\game\spells\219.png - encrypted
+data\images\game\spells\22.png - encrypted
+data\images\game\spells\220.png - encrypted
+data\images\game\spells\221.png - encrypted
+data\images\game\spells\222.png - encrypted
+data\images\game\spells\223.png - encrypted
+data\images\game\spells\224.png - encrypted
+data\images\game\spells\225.png - encrypted
+data\images\game\spells\226.png - encrypted
+data\images\game\spells\227.png - encrypted
+data\images\game\spells\228.png - encrypted
+data\images\game\spells\229.png - encrypted
+data\images\game\spells\23.png - encrypted
+data\images\game\spells\230.png - encrypted
+data\images\game\spells\231.png - encrypted
+data\images\game\spells\232.png - encrypted
+data\images\game\spells\233.png - encrypted
+data\images\game\spells\24.png - encrypted
+data\images\game\spells\25.png - encrypted
+data\images\game\spells\27.png - encrypted
+data\images\game\spells\28.png - encrypted
+data\images\game\spells\3.png - encrypted
+data\images\game\spells\30.png - encrypted
+data\images\game\spells\31.png - encrypted
+data\images\game\spells\32.png - encrypted
+data\images\game\spells\33.png - encrypted
+data\images\game\spells\34.png - encrypted
+data\images\game\spells\35.png - encrypted
+data\images\game\spells\36.png - encrypted
+data\images\game\spells\37.png - encrypted
+data\images\game\spells\38.png - encrypted
+data\images\game\spells\39.png - encrypted
+data\images\game\spells\4.png - encrypted
+data\images\game\spells\40.png - encrypted
+data\images\game\spells\42.png - encrypted
+data\images\game\spells\44.png - encrypted
+data\images\game\spells\45.png - encrypted
+data\images\game\spells\46.png - encrypted
+data\images\game\spells\48.png - encrypted
+data\images\game\spells\49.png - encrypted
+data\images\game\spells\5.png - encrypted
+data\images\game\spells\50.png - encrypted
+data\images\game\spells\51.png - encrypted
+data\images\game\spells\52.png - encrypted
+data\images\game\spells\53.png - encrypted
+data\images\game\spells\54.png - encrypted
+data\images\game\spells\55.png - encrypted
+data\images\game\spells\56.png - encrypted
+data\images\game\spells\57.png - encrypted
+data\images\game\spells\58.png - encrypted
+data\images\game\spells\59.png - encrypted
+data\images\game\spells\6.png - encrypted
+data\images\game\spells\61.png - encrypted
+data\images\game\spells\64.png - encrypted
+data\images\game\spells\66.png - encrypted
+data\images\game\spells\67.png - encrypted
+data\images\game\spells\68.png - encrypted
+data\images\game\spells\69.png - encrypted
+data\images\game\spells\7.png - encrypted
+data\images\game\spells\70.png - encrypted
+data\images\game\spells\71.png - encrypted
+data\images\game\spells\72.png - encrypted
+data\images\game\spells\73.png - encrypted
+data\images\game\spells\74.png - encrypted
+data\images\game\spells\75.png - encrypted
+data\images\game\spells\76.png - encrypted
+data\images\game\spells\77.png - encrypted
+data\images\game\spells\78.png - encrypted
+data\images\game\spells\79.png - encrypted
+data\images\game\spells\8.png - encrypted
+data\images\game\spells\80.png - encrypted
+data\images\game\spells\81.png - encrypted
+data\images\game\spells\83.png - encrypted
+data\images\game\spells\84.png - encrypted
+data\images\game\spells\86.png - encrypted
+data\images\game\spells\89.png - encrypted
+data\images\game\spells\9.png - encrypted
+data\images\game\spells\90.png - encrypted
+data\images\game\spells\91.png - encrypted
+data\images\game\spells\92.png - encrypted
+data\images\game\spells\93.png - encrypted
+data\images\game\spells\95.png - encrypted
+data\images\game\spells\96.png - encrypted
+data\images\game\spells\97.png - encrypted
+data\images\game\spells\98.png - encrypted
+data\images\game\spells\99.png - encrypted
+data\images\game\spells\cooldowns.png - encrypted
+data\images\game\spells\defaultspells.png - encrypted
+data\images\game\states\absorbed.png - encrypted
+data\images\game\states\bleeding.png - encrypted
+data\images\game\states\blinded.png - encrypted
+data\images\game\states\boosted.png - encrypted
+data\images\game\states\burning.png - encrypted
+data\images\game\states\cursed.png - encrypted
+data\images\game\states\dazzled.png - encrypted
+data\images\game\states\drowning.png - encrypted
+data\images\game\states\drunk.png - encrypted
+data\images\game\states\electrified.png - encrypted
+data\images\game\states\freezing.png - encrypted
+data\images\game\states\ghost.png - encrypted
+data\images\game\states\haste.png - encrypted
+data\images\game\states\hungry.png - encrypted
+data\images\game\states\logout_block.png - encrypted
+data\images\game\states\magic_shield.png - encrypted
+data\images\game\states\poisoned.png - encrypted
+data\images\game\states\possessed.png - encrypted
+data\images\game\states\protection_zone.png - encrypted
+data\images\game\states\protection_zone_block.png - encrypted
+data\images\game\states\slowed.png - encrypted
+data\images\game\states\strengthened.png - encrypted
+data\images\game\states\stun.png - encrypted
+data\images\game\summon_other.png - encrypted
+data\images\game\summon_own.png - encrypted
+data\images\game\timeLeft\0.png - encrypted
+data\images\game\timeLeft\1.png - encrypted
+data\images\game\timeLeft\2.png - encrypted
+data\images\game\timeLeft\2pontos.png - encrypted
+data\images\game\timeLeft\3.png - encrypted
+data\images\game\timeLeft\4.png - encrypted
+data\images\game\timeLeft\5.png - encrypted
+data\images\game\timeLeft\6.png - encrypted
+data\images\game\timeLeft\7.png - encrypted
+data\images\game\timeLeft\8.png - encrypted
+data\images\game\timeLeft\9.png - encrypted
+data\images\game\topbar\boost.png - encrypted
+data\images\game\topbar\icons.png - encrypted
+data\images\game\viplist\icons.png - encrypted
+data\images\game\viplist\vipcheckbox.png - encrypted
+data\images\health\bag.png - encrypted
+data\images\health\bar.png - encrypted
+data\images\health\bless\0.png - encrypted
+data\images\health\bless\1.png - encrypted
+data\images\health\bless\2.png - encrypted
+data\images\health\bless\3.png - encrypted
+data\images\health\characterwindow.png - encrypted
+data\images\health\characterwindow2.png - encrypted
+data\images\health\characterwindowsss.png - encrypted
+data\images\health\minibar.png - encrypted
+data\images\health\portrait\arqueira.png - encrypted
+data\images\health\portrait\character.png - encrypted
+data\images\health\portrait\curandeiro.png - encrypted
+data\images\health\portrait\guerreiro.png - encrypted
+data\images\health\portrait\maga.png - encrypted
+data\images\health\portrait\ninja.png - encrypted
+data\images\health\portrait\outros\0.png - encrypted
+data\images\health\portrait\outros\arqueira.png - encrypted
+data\images\health\portrait\outros\Bills.png - encrypted
+data\images\health\portrait\outros\Broly.png - encrypted
+data\images\health\portrait\outros\Cell.png - encrypted
+data\images\health\portrait\outros\Champa.png - encrypted
+data\images\health\portrait\outros\curandeiro.png - encrypted
+data\images\health\portrait\outros\Dispo.png - encrypted
+data\images\health\portrait\outros\Freeza.png - encrypted
+data\images\health\portrait\outros\Gohan.png - encrypted
+data\images\health\portrait\outros\Goku.png - encrypted
+data\images\health\portrait\outros\Goku_black.png - encrypted
+data\images\health\portrait\outros\Goten.png - encrypted
+data\images\health\portrait\outros\guerreiro.png - encrypted
+data\images\health\portrait\outros\Hito.png - encrypted
+data\images\health\portrait\outros\Jiren.png - encrypted
+data\images\health\portrait\outros\maga.png - encrypted
+data\images\health\portrait\outros\Maji_boo.png - encrypted
+data\images\health\portrait\outros\ninja.png - encrypted
+data\images\health\portrait\outros\samurai.png - encrypted
+data\images\health\portrait\outros\Sung2.png - encrypted
+data\images\health\portrait\outros\Toppo.png - encrypted
+data\images\health\portrait\outros\Trunks.png - encrypted
+data\images\health\portrait\outros\vados.png - encrypted
+data\images\health\portrait\outros\Vegeta.png - encrypted
+data\images\health\portrait\outros\Whis.png - encrypted
+data\images\health\portrait\samurai.png - encrypted
+data\images\health\progressbar_exp.png - encrypted
+data\images\health\progressbar_health.png - encrypted
+data\images\health\progressbar_health2.png - encrypted
+data\images\health\progressbar_mana.png - encrypted
+data\images\health\progressbar_mana2.png - encrypted
+data\images\health\progressbar_manaqse.png - encrypted
+data\images\health\progressbar_stamina.png - encrypted
+data\images\health\star\0.png - encrypted
+data\images\health\star\1.png - encrypted
+data\images\health\star\2.png - encrypted
+data\images\health\star\3.png - encrypted
+data\images\health\star\4.png - encrypted
+data\images\health\star\5.png - encrypted
+data\images\icons\bg_tool.png - encrypted
+data\images\icons\bike_icon.png - encrypted
+data\images\icons\dive_icon.png - encrypted
+data\images\icons\fly_down_icon.png - encrypted
+data\images\icons\fly_up_icon.png - encrypted
+data\images\icons\loot_icon_off.png - encrypted
+data\images\icons\loot_icon_on.png - encrypted
+data\images\inventory\inventory.png - encrypted
+data\images\loading.png - encrypted
+data\images\optionstab\account.png - encrypted
+data\images\optionstab\audio.png - encrypted
+data\images\optionstab\console.png - encrypted
+data\images\optionstab\extras.png - encrypted
+data\images\optionstab\features.png - encrypted
+data\images\optionstab\game.png - encrypted
+data\images\optionstab\graphics.png - encrypted
+data\images\optionstab\interface.png - encrypted
+data\images\optionstab\photothumb.db - encrypted
+data\images\optionstab\skin.png - encrypted
+data\images\optionstab\windows.png - encrypted
+data\images\shaders\blue.png - encrypted
+data\images\shaders\brazil.png - encrypted
+data\images\shaders\clouds.png - encrypted
+data\images\shaders\fire.png - encrypted
+data\images\shaders\fire2.png - encrypted
+data\images\shaders\flamenoise.png - encrypted
+data\images\shaders\flamenoise2.png - encrypted
+data\images\shaders\gold.png - encrypted
+data\images\shaders\gradient.png - encrypted
+data\images\shaders\gradient2.png - encrypted
+data\images\shaders\heavy_fog.png - encrypted
+data\images\shaders\heavy_rain.png - encrypted
+data\images\shaders\heavy_sandstorm.png - encrypted
+data\images\shaders\heavy_snow.png - encrypted
+data\images\shaders\lightfog.png - encrypted
+data\images\shaders\lightning.png - encrypted
+data\images\shaders\light_rain.png - encrypted
+data\images\shaders\light_sandstorm.png - encrypted
+data\images\shaders\light_snow.png - encrypted
+data\images\shaders\png-clipart-shading-technology-shading-decoration-blue-and-white-texture-blue.png - encrypted
+data\images\shaders\rain.png - encrypted
+data\images\shaders\rainbow.png - encrypted
+data\images\shaders\sand_fog.png - encrypted
+data\images\shaders\seamlessnoise.png - encrypted
+data\images\shaders\stars.png - encrypted
+data\images\shaders\sweden.png - encrypted
+data\images\shaders\toonseamlessnoise.png - encrypted
+data\images\shaders\tutorial.png - encrypted
+data\images\stars\0star.png - encrypted
+data\images\stars\1.png - encrypted
+data\images\stars\1star.png - encrypted
+data\images\stars\2.png - encrypted
+data\images\stars\2star.png - encrypted
+data\images\stars\3.png - encrypted
+data\images\stars\3star.png - encrypted
+data\images\stars\4.png - encrypted
+data\images\stars\4star.png - encrypted
+data\images\stars\5.png - encrypted
+data\images\stars\5star.png - encrypted
+data\images\stars\6.png - encrypted
+data\images\stars\6star.png - encrypted
+data\images\stars\7.png - encrypted
+data\images\stars\7star.png - encrypted
+data\images\stats\1.png - encrypted
+data\images\stats\2.png - encrypted
+data\images\stats\3.png - encrypted
+data\images\stats\4.png - encrypted
+data\images\stats\5.png - encrypted
+data\images\stats\6.png - encrypted
+data\images\stats\7.png - encrypted
+data\images\stats\button.png - encrypted
+data\images\stats\plus.png - encrypted
+data\images\topbuttons\analyzers.png - encrypted
+data\images\topbuttons\atributos.png - encrypted
+data\images\topbuttons\audio.png - encrypted
+data\images\topbuttons\audio_mute.png - encrypted
+data\images\topbuttons\bar.png - encrypted
+data\images\topbuttons\base.png - encrypted
+data\images\topbuttons\battle.png - encrypted
+data\images\topbuttons\battle1.png - encrypted
+data\images\topbuttons\bestiary.png - encrypted
+data\images\topbuttons\bot.png - encrypted
+data\images\topbuttons\brokes_info.png - encrypted
+data\images\topbuttons\buttons.png - encrypted
+data\images\topbuttons\cards.png - encrypted
+data\images\topbuttons\cards2.png - encrypted
+data\images\topbuttons\changename.png - encrypted
+data\images\topbuttons\changevocation.png - encrypted
+data\images\topbuttons\ciclopedia.png - encrypted
+data\images\topbuttons\combatcontrols.png - encrypted
+data\images\topbuttons\combatcontrols2.png - encrypted
+data\images\topbuttons\compedium.png - encrypted
+data\images\topbuttons\config_icon.png - encrypted
+data\images\topbuttons\cooldowns.png - encrypted
+data\images\topbuttons\craft.png - encrypted
+data\images\topbuttons\dailyreward.png - encrypted
+data\images\topbuttons\daily_reward.png - encrypted
+data\images\topbuttons\debug.png - encrypted
+data\images\topbuttons\duel_player.png - encrypted
+data\images\topbuttons\dungeon.png - encrypted
+data\images\topbuttons\emerald_shop.png - encrypted
+data\images\topbuttons\exit.png - encrypted
+data\images\topbuttons\fishing.png - encrypted
+data\images\topbuttons\gacha.png - encrypted
+data\images\topbuttons\healthinfo.png - encrypted
+data\images\topbuttons\hotkeys.png - encrypted
+data\images\topbuttons\hour_daily.png - encrypted
+data\images\topbuttons\Image_2D_0864_0269.png - encrypted
+data\images\topbuttons\inventory.png - encrypted
+data\images\topbuttons\jutsus.png - encrypted
+data\images\topbuttons\keypad.png - encrypted
+data\images\topbuttons\login.png - encrypted
+data\images\topbuttons\logout.png - encrypted
+data\images\topbuttons\logout1.png - encrypted
+data\images\topbuttons\loot.png - encrypted
+data\images\topbuttons\map_on.png - encrypted
+data\images\topbuttons\minimap.png - encrypted
+data\images\topbuttons\modulemanager.png - encrypted
+data\images\topbuttons\motd.png - encrypted
+data\images\topbuttons\options.png - encrypted
+data\images\topbuttons\particles.png - encrypted
+data\images\topbuttons\party.png - encrypted
+data\images\topbuttons\passe.png - encrypted
+data\images\topbuttons\pokeaddons.png - encrypted
+data\images\topbuttons\pokebar.png - encrypted
+data\images\topbuttons\pokedex.png - encrypted
+data\images\topbuttons\pokeinfo.png - encrypted
+data\images\topbuttons\pokeivs.png - encrypted
+data\images\topbuttons\pokemon.png - encrypted
+data\images\topbuttons\prey.png - encrypted
+data\images\topbuttons\prey_window.png - encrypted
+data\images\topbuttons\progress.png - encrypted
+data\images\topbuttons\quest tracker.png - encrypted
+data\images\topbuttons\questlog.png - encrypted
+data\images\topbuttons\quest_tracker.png - encrypted
+data\images\topbuttons\shop.png - encrypted
+data\images\topbuttons\shop_animated.png - encrypted
+data\images\topbuttons\skills.png - encrypted
+data\images\topbuttons\skull_black.png - encrypted
+data\images\topbuttons\skull_green.png - encrypted
+data\images\topbuttons\skull_orange.png - encrypted
+data\images\topbuttons\skull_white.png - encrypted
+data\images\topbuttons\skull_yellow.png - encrypted
+data\images\topbuttons\spelllist.png - encrypted
+data\images\topbuttons\status.png - encrypted
+data\images\topbuttons\survive.png - encrypted
+data\images\topbuttons\task.png - encrypted
+data\images\topbuttons\tasks.png - encrypted
+data\images\topbuttons\task_catch.png - encrypted
+data\images\topbuttons\task_kill.png - encrypted
+data\images\topbuttons\teleport.png - encrypted
+data\images\topbuttons\template3.jpg - encrypted
+data\images\topbuttons\terminal.png - encrypted
+data\images\topbuttons\teste.png - encrypted
+data\images\topbuttons\trainer_pass.png - encrypted
+data\images\topbuttons\tutorial.png - encrypted
+data\images\topbuttons\tutorial_animated.png - encrypted
+data\images\topbuttons\unjustifiedpoints.png - encrypted
+data\images\topbuttons\viplist.png - encrypted
+data\images\topbuttons\zoom.png - encrypted
+data\images\topbuttons\zoomin.png - encrypted
+data\images\topbuttons\zoomout.png - encrypted
+data\images\ui\actionbar_background.png - encrypted
+data\images\ui\adv_healthinfo.png - encrypted
+data\images\ui\adv_healthinfo_blue.png - encrypted
+data\images\ui\android.png - encrypted
+data\images\ui\antigo\actionbar_background.png - encrypted
+data\images\ui\antigo\android.png - encrypted
+data\images\ui\antigo\arrow_horizontal.png - encrypted
+data\images\ui\antigo\arrow_vertical.png - encrypted
+data\images\ui\antigo\bossbar.png - encrypted
+data\images\ui\antigo\bossbar_bar.png - encrypted
+data\images\ui\antigo\bossbar_bg.png - encrypted
+data\images\ui\antigo\bossbar_border.png - encrypted
+data\images\ui\antigo\bossbar_border2.png - encrypted
+data\images\ui\antigo\bossbar_outfit.png - encrypted
+data\images\ui\antigo\bossbar_outfit_bg.png - encrypted
+data\images\ui\antigo\button.png - encrypted
+data\images\ui\antigo\button_popupmenu.png - encrypted
+data\images\ui\antigo\button_rounded.png - encrypted
+data\images\ui\antigo\button_square.png - encrypted
+data\images\ui\antigo\button_top.png - encrypted
+data\images\ui\antigo\button_topgame.png - encrypted
+data\images\ui\antigo\button_top_blink.png - encrypted
+data\images\ui\antigo\checkbox.png - encrypted
+data\images\ui\antigo\checkbox_round.png - encrypted
+data\images\ui\antigo\colorbox.png - encrypted
+data\images\ui\antigo\combobox.png - encrypted
+data\images\ui\antigo\combobox_rounded.png - encrypted
+data\images\ui\antigo\combobox_square.png - encrypted
+data\images\ui\antigo\dark_background.png - encrypted
+data\images\ui\antigo\discord.png - encrypted
+data\images\ui\antigo\graph_background.png - encrypted
+data\images\ui\antigo\icon_add.png - encrypted
+data\images\ui\antigo\ios.png - encrypted
+data\images\ui\antigo\item-blessed.png - encrypted
+data\images\ui\antigo\item.png - encrypted
+data\images\ui\antigo\menubox.png - encrypted
+data\images\ui\antigo\minipanel.png - encrypted
+data\images\ui\antigo\miniwindow.png - encrypted
+data\images\ui\antigo\miniwindow_buttons.png - encrypted
+data\images\ui\antigo\otcicon.rc - encrypted
+data\images\ui\antigo\panel_bottom.png - encrypted
+data\images\ui\antigo\panel_bottom2.png - encrypted
+data\images\ui\antigo\panel_container.png - encrypted
+data\images\ui\antigo\panel_content.png - encrypted
+data\images\ui\antigo\panel_flat.png - encrypted
+data\images\ui\antigo\panel_lightflat.png - encrypted
+data\images\ui\antigo\panel_map.png - encrypted
+data\images\ui\antigo\panel_side.png - encrypted
+data\images\ui\antigo\panel_top.png - encrypted
+data\images\ui\antigo\progressbar.png - encrypted
+data\images\ui\antigo\qauth.png - encrypted
+data\images\ui\antigo\rarity_blue.png - encrypted
+data\images\ui\antigo\rarity_frames.png - encrypted
+data\images\ui\antigo\rarity_gold.png - encrypted
+data\images\ui\antigo\rarity_green.png - encrypted
+data\images\ui\antigo\rarity_purple.png - encrypted
+data\images\ui\antigo\rarity_white.png - encrypted
+data\images\ui\antigo\rotate_button.png - encrypted
+data\images\ui\antigo\scrollbar.png - encrypted
+data\images\ui\antigo\separator_horizontal.png - encrypted
+data\images\ui\antigo\separator_vertical.png - encrypted
+data\images\ui\antigo\spinbox.png - encrypted
+data\images\ui\antigo\spinbox_down.png - encrypted
+data\images\ui\antigo\spinbox_up.png - encrypted
+data\images\ui\antigo\tabbutton_rounded.png - encrypted
+data\images\ui\antigo\tabbutton_square.png - encrypted
+data\images\ui\antigo\textedit.png - encrypted
+data\images\ui\antigo\window.png - encrypted
+data\images\ui\antigo\window_headless.png - encrypted
+data\images\ui\aqui.png - encrypted
+data\images\ui\arrow_horizontal.png - encrypted
+data\images\ui\arrow_up.png - encrypted
+data\images\ui\arrow_vertical.png - encrypted
+data\images\ui\arrow_verticala.png - encrypted
+data\images\ui\azul.png - encrypted
+data\images\ui\background.png - encrypted
+data\images\ui\backtitle.png - encrypted
+data\images\ui\bossbar.png - encrypted
+data\images\ui\bossbar_bar.png - encrypted
+data\images\ui\bossbar_bg.png - encrypted
+data\images\ui\bossbar_border.png - encrypted
+data\images\ui\bossbar_border2.png - encrypted
+data\images\ui\bossbar_outfit.png - encrypted
+data\images\ui\bossbar_outfit_bg.png - encrypted
+data\images\ui\broder_panel.png - encrypted
+data\images\ui\button.png - encrypted
+data\images\ui\Button2.png - encrypted
+data\images\ui\buttonN.png - encrypted
+data\images\ui\buttons\wooden_close.png - encrypted
+data\images\ui\buttons\wooden_info.png - encrypted
+data\images\ui\buttons\wooden_play.png - encrypted
+data\images\ui\buttons\wooden_return.png - encrypted
+data\images\ui\buttontext.png - encrypted
+data\images\ui\button_big.png - encrypted
+data\images\ui\button_close.png - encrypted
+data\images\ui\button_close_guide.png - encrypted
+data\images\ui\button_login.png - encrypted
+data\images\ui\button_middle.png - encrypted
+data\images\ui\button_plank.png - encrypted
+data\images\ui\button_popupmenu.png - encrypted
+data\images\ui\button_purple.png - encrypted
+data\images\ui\button_rounded.png - encrypted
+data\images\ui\button_square.png - encrypted
+data\images\ui\button_top.png - encrypted
+data\images\ui\button_top1.png - encrypted
+data\images\ui\button_topbar.png - encrypted
+data\images\ui\button_topblink.png - encrypted
+data\images\ui\button_topgame.png - encrypted
+data\images\ui\button_topgame1.png - encrypted
+data\images\ui\button_topgame2.png - encrypted
+data\images\ui\button_top_blink.png - encrypted
+data\images\ui\card_window.png - encrypted
+data\images\ui\checkbox.png - encrypted
+data\images\ui\checkbox2.png - encrypted
+data\images\ui\checkbox3.png - encrypted
+data\images\ui\checkboxlogin.png - encrypted
+data\images\ui\checkboxx.png - encrypted
+data\images\ui\checkbox_big.png - encrypted
+data\images\ui\checkbox_light.png - encrypted
+data\images\ui\checkbox_old.png - encrypted
+data\images\ui\checkbox_round.png - encrypted
+data\images\ui\checklove.png - encrypted
+data\images\ui\checks.png - encrypted
+data\images\ui\circle_checkbox.png - encrypted
+data\images\ui\close_button.png - encrypted
+data\images\ui\colorbox.png - encrypted
+data\images\ui\combobox.png - encrypted
+data\images\ui\combobox_rounded.png - encrypted
+data\images\ui\combobox_square.png - encrypted
+data\images\ui\configedit2.png - encrypted
+data\images\ui\continue_with_logpass.png - encrypted
+data\images\ui\crosshair-animated.png - encrypted
+data\images\ui\crosshair.png - encrypted
+data\images\ui\ctab_button.png - encrypted
+data\images\ui\daily1.png - encrypted
+data\images\ui\daily2.png - encrypted
+data\images\ui\dark_background.png - encrypted
+data\images\ui\defaultspells.png - encrypted
+data\images\ui\discord.png - encrypted
+data\images\ui\downloadbar.png - encrypted
+data\images\ui\entergame.png - encrypted
+data\images\ui\entergame_textedits.png - encrypted
+data\images\ui\entergame_text_background.png - encrypted
+data\images\ui\graph_background.png - encrypted
+data\images\ui\horizontalBars.png - encrypted
+data\images\ui\hoversquare.png - encrypted
+data\images\ui\hoversquare1.png - encrypted
+data\images\ui\hpbar_background.png - encrypted
+data\images\ui\hpbar_fill.png - encrypted
+data\images\ui\HPBar_filling.png - encrypted
+data\images\ui\hp_bar.png - encrypted
+data\images\ui\hp_bar2.png - encrypted
+data\images\ui\iconbox.png - encrypted
+data\images\ui\icon_add.png - encrypted
+data\images\ui\insta.png - encrypted
+data\images\ui\inventory.png - encrypted
+data\images\ui\inventory.psd - encrypted
+data\images\ui\ios.png - encrypted
+data\images\ui\item - Cópia.png - encrypted
+data\images\ui\item-blessed.png - encrypted
+data\images\ui\item.png - encrypted
+data\images\ui\item.psd - encrypted
+data\images\ui\item.psxprj - encrypted
+data\images\ui\item2.png - encrypted
+data\images\ui\item_epic.png - encrypted
+data\images\ui\item_legendary.png - encrypted
+data\images\ui\item_mythic.png - encrypted
+data\images\ui\item_rare.png - encrypted
+data\images\ui\item_uncommon.png - encrypted
+data\images\ui\kibar_background.png - encrypted
+data\images\ui\kibar_fill.png - encrypted
+data\images\ui\loading.png - encrypted
+data\images\ui\locked.png - encrypted
+data\images\ui\locked2.png - encrypted
+data\images\ui\locked3.png - encrypted
+data\images\ui\login00.png - encrypted
+data\images\ui\login00.psd - encrypted
+data\images\ui\login01.png - encrypted
+data\images\ui\login10.png - encrypted
+data\images\ui\login11.png - encrypted
+data\images\ui\loginbutton.png - encrypted
+data\images\ui\logo.png - encrypted
+data\images\ui\menubarleft.png - encrypted
+data\images\ui\menubox.png - encrypted
+data\images\ui\menubox3.png - encrypted
+data\images\ui\minibroder.png - encrypted
+data\images\ui\minimap_icons.png - encrypted
+data\images\ui\minipanel.png - encrypted
+data\images\ui\miniwindow (copy).png - encrypted
+data\images\ui\miniwindow - Cópia.png - encrypted
+data\images\ui\miniwindow.png - encrypted
+data\images\ui\miniwindow1.png - encrypted
+data\images\ui\miniwindow_buttons.png - encrypted
+data\images\ui\miniwindow_buttonss.png - encrypted
+data\images\ui\miniwindow_buttons_old.png - encrypted
+data\images\ui\mp_bar.png - encrypted
+data\images\ui\mp_bar2.png - encrypted
+data\images\ui\mythical.png - encrypted
+data\images\ui\New Piskel.png - encrypted
+data\images\ui\newminiwindow.png - encrypted
+data\images\ui\noimage.png - encrypted
+data\images\ui\options_broder.png - encrypted
+data\images\ui\option_button.png - encrypted
+data\images\ui\Originals\panel_map.png - encrypted
+data\images\ui\Originals\panel_side.png - encrypted
+data\images\ui\Originals\testee.png - encrypted
+data\images\ui\otcicon.rc - encrypted
+data\images\ui\panel_bottom.png - encrypted
+data\images\ui\panel_bottom2.png - encrypted
+data\images\ui\panel_container.png - encrypted
+data\images\ui\panel_content.png - encrypted
+data\images\ui\panel_flat.png - encrypted
+data\images\ui\panel_lightflat.png - encrypted
+data\images\ui\panel_map.png - encrypted
+data\images\ui\panel_side — kopia.png - encrypted
+data\images\ui\panel_side.png - encrypted
+data\images\ui\panel_side1 - Copia.png - encrypted
+data\images\ui\panel_side1.png - encrypted
+data\images\ui\panel_side2.png - encrypted
+data\images\ui\panel_top.png - encrypted
+data\images\ui\panel_top_old.png - encrypted
+data\images\ui\photothumb.db - encrypted
+data\images\ui\playerstats_active_tab.png - encrypted
+data\images\ui\playerstats_active_tab_icons.png - encrypted
+data\images\ui\playerstats_inactive_tab.png - encrypted
+data\images\ui\playerstats_inactive_tab_icons.png - encrypted
+data\images\ui\PNG.png - encrypted
+data\images\ui\pointer_voc.png - encrypted
+data\images\ui\popup.png - encrypted
+data\images\ui\popupmenu.png - encrypted
+data\images\ui\ProfissionBar.png - encrypted
+data\images\ui\progressbar.png - encrypted
+data\images\ui\progressbarhpmana.png - encrypted
+data\images\ui\progressbarlong.png - encrypted
+data\images\ui\progressbarskills.png - encrypted
+data\images\ui\progressbar_adv.png - encrypted
+data\images\ui\progress_icons.png - encrypted
+data\images\ui\psD708.tmp - encrypted
+data\images\ui\qauth.png - encrypted
+data\images\ui\rarity_blue.png - encrypted
+data\images\ui\rarity_frames.png - encrypted
+data\images\ui\rarity_gold.png - encrypted
+data\images\ui\rarity_green.png - encrypted
+data\images\ui\rarity_purple.png - encrypted
+data\images\ui\rarity_white.png - encrypted
+data\images\ui\revert_icon.png - encrypted
+data\images\ui\rotate_button.png - encrypted
+data\images\ui\roxo.png - encrypted
+data\images\ui\scrollbar - Cópia.png - encrypted
+data\images\ui\scrollbar.png - encrypted
+data\images\ui\scrollbar2.png - encrypted
+data\images\ui\scrollBarnova1.png - encrypted
+data\images\ui\scrollBarnova2.png - encrypted
+data\images\ui\separator_horizontal.png - encrypted
+data\images\ui\separator_vertical.png - encrypted
+data\images\ui\server0.png - encrypted
+data\images\ui\server1.png - encrypted
+data\images\ui\seta.png - encrypted
+data\images\ui\shadowcircle.png - encrypted
+data\images\ui\shadowmonster.png - encrypted
+data\images\ui\site.png - encrypted
+data\images\ui\skillbar.png - encrypted
+data\images\ui\skillbar_empty.png - encrypted
+data\images\ui\skillbar_icons.png - encrypted
+data\images\ui\skillprogress.png - encrypted
+data\images\ui\slider.png - encrypted
+data\images\ui\Slots de Itens.png - encrypted
+data\images\ui\spellbar_expbar.png - encrypted
+data\images\ui\spellbar_health.png - encrypted
+data\images\ui\spellbar_hotkey_background.png - encrypted
+data\images\ui\spellbar_inventory.png - encrypted
+data\images\ui\spellbar_ki.png - encrypted
+data\images\ui\spellbar_main.png - encrypted
+data\images\ui\spellbar_numbers.png - encrypted
+data\images\ui\spellbar_separator.png - encrypted
+data\images\ui\spellbar_special_hotkey_background.png - encrypted
+data\images\ui\spellbar_special_inventory.png - encrypted
+data\images\ui\spinbox.png - encrypted
+data\images\ui\spinbox_down.png - encrypted
+data\images\ui\spinbox_up.png - encrypted
+data\images\ui\sxy\miniwindow.png - encrypted
+data\images\ui\sxy\panel_bottom.png - encrypted
+data\images\ui\sxy\panel_container.png - encrypted
+data\images\ui\sxy\panel_content.png - encrypted
+data\images\ui\sxy\panel_map.png - encrypted
+data\images\ui\sxy\panel_side.png - encrypted
+data\images\ui\sxy\panel_top.png - encrypted
+data\images\ui\sxy\window.png - encrypted
+data\images\ui\sxy\window_headless.png - encrypted
+data\images\ui\tabbutton_rounded.png - encrypted
+data\images\ui\tabbutton_square.png - encrypted
+data\images\ui\tabbutton_square1.png - encrypted
+data\images\ui\tabbutton_squarebk.png - encrypted
+data\images\ui\targetsquare.png - encrypted
+data\images\ui\targetsquare1.png - encrypted
+data\images\ui\testee.png - encrypted
+data\images\ui\textedit kopia.png - encrypted
+data\images\ui\textedit.png - encrypted
+data\images\ui\toggle_layout.png - encrypted
+data\images\ui\tooltip\armor.png - encrypted
+data\images\ui\tooltip\axe.png - encrypted
+data\images\ui\tooltip\boots.png - encrypted
+data\images\ui\tooltip\common.png - encrypted
+data\images\ui\tooltip\container.png - encrypted
+data\images\ui\tooltip\distance.png - encrypted
+data\images\ui\tooltip\helmet.png - encrypted
+data\images\ui\tooltip\hower.png - encrypted
+data\images\ui\tooltip\legs.png - encrypted
+data\images\ui\tooltip\necklace.png - encrypted
+data\images\ui\tooltip\ring.png - encrypted
+data\images\ui\tooltip\spritebox.png - encrypted
+data\images\ui\tooltip\tooltipbox.png - encrypted
+data\images\ui\tooltip_textedit.png - encrypted
+data\images\ui\Topnav Bar.png - encrypted
+data\images\ui\transform_icon.png - encrypted
+data\images\ui\variants.png - encrypted
+data\images\ui\variant_select_arrow.png - encrypted
+data\images\ui\verde.png - encrypted
+data\images\ui\w11.png - encrypted
+data\images\ui\whatsapp.png - encrypted
+data\images\ui\window - Cópia.png - encrypted
+data\images\ui\window.png - encrypted
+data\images\ui\windowinv.png - encrypted
+data\images\ui\window_headless.png - encrypted
+data\images\ui\window_skills.png - encrypted
+data\images\ui\window_white.png - encrypted
+data\images\ui\xpanel_bottom.png - encrypted
+data\images\ui\xp_bar.png - encrypted
+data\items0\items.otb - encrypted
+data\items0\items.xml - encrypted
+data\items0\randomization.xml - encrypted
+data\locales\de.lua - lua bytecode encrypted
+data\locales\de.lua - encrypted
+data\locales\en.lua - lua bytecode encrypted
+data\locales\en.lua - encrypted
+data\locales\es.lua - lua bytecode encrypted
+data\locales\es.lua - encrypted
+data\locales\pl.lua - lua bytecode encrypted
+data\locales\pl.lua - encrypted
+data\locales\pt.lua - lua bytecode encrypted
+data\locales\pt.lua - encrypted
+data\locales\sv.lua - lua bytecode encrypted
+data\locales\sv.lua - encrypted
+data\shaders\map_default_fragment.frag - encrypted
+data\shaders\map_default_vertex.frag - encrypted
+data\shaders\map_rainbow_fragment.frag - encrypted
+data\shaders\map_rainbow_vertex.frag - encrypted
+data\shaders\padrao.frag - encrypted
+data\shaders\ShaderChargeBlue.frag - encrypted
+data\shaders\ShaderChargeGreen.frag - encrypted
+data\shaders\ShaderChargeLightPink.frag - encrypted
+data\shaders\ShaderChargeMultiColors.frag - encrypted
+data\shaders\ShaderChargeYellow.frag - encrypted
+data\shaders\ShaderOutBlack.frag - encrypted
+data\shaders\ShaderOutBlue.frag - encrypted
+data\shaders\ShaderOutMultiColors.frag - encrypted
+data\shaders\ShaderOutPurple.frag - encrypted
+data\shaders\ShaderOutRed.frag - encrypted
+data\shaders\tutorial.frag - encrypted
+data\shaders\tutorial_fragment.frag - encrypted
+data\sounds\alarm.ogg - encrypted
+data\sounds\click.ogg - encrypted
+data\sounds\Creature_Detected.ogg - encrypted
+data\sounds\Low_Health.ogg - encrypted
+data\sounds\Low_Mana.ogg - encrypted
+data\sounds\magnum.ogg - encrypted
+data\sounds\mana.ogg - encrypted
+data\sounds\mensagem.ogg - encrypted
+data\sounds\monstro.ogg - encrypted
+data\sounds\pk.ogg - encrypted
+data\sounds\player.ogg - encrypted
+data\sounds\Player_Attack.ogg - encrypted
+data\sounds\Player_Detected.ogg - encrypted
+data\sounds\Private_Message.ogg - encrypted
+data\sounds\startup.ogg - encrypted
+data\sounds\vida.ogg - encrypted
+data\styles\10-buttons.otui - encrypted
+data\styles\10-checkboxes.otui - encrypted
+data\styles\10-comboboxes.otui - encrypted
+data\styles\10-creaturebuttons.otui - encrypted
+data\styles\10-creatures.otui - encrypted
+data\styles\10-items.otui - encrypted
+data\styles\10-labels.otui - encrypted
+data\styles\10-listboxes.otui - encrypted
+data\styles\10-panels.otui - encrypted
+data\styles\10-progressbars.otui - encrypted
+data\styles\10-scrollbars.otui - encrypted
+data\styles\10-separators.otui - encrypted
+data\styles\10-splitters.otui - encrypted
+data\styles\10-textedits.otui - encrypted
+data\styles\10-windows.otui - encrypted
+data\styles\20-chat.otui - encrypted
+data\styles\20-imageview.otui - encrypted
+data\styles\20-popupmenus.otui - encrypted
+data\styles\20-smallscrollbar.otui - encrypted
+data\styles\20-spinboxes.otui - encrypted
+data\styles\20-tabbars.otui - encrypted
+data\styles\20-tabbarsOld.otui - encrypted
+data\styles\20-tables.otui - encrypted
+data\styles\20-topmenu.otui - encrypted
+data\styles\30-inputboxes.otui - encrypted
+data\styles\30-messageboxes.otui - encrypted
+data\styles\30-miniwindow.otui - encrypted
+data\styles\40-console.otui - encrypted
+data\styles\40-container.otui - encrypted
+data\styles\40-entergame.otui - encrypted
+data\styles\40-gamebuttons.otui - encrypted
+data\styles\40-healthinfo.otui - encrypted
+data\styles\40-inventory.otui - encrypted
+data\styles\40-minimap.otui - encrypted
+data\styles\40-outfitwindow.otui - encrypted
+data\styles\40-tilewidget.otui - encrypted
+data\styles\50-psoul.otui - encrypted
+data\styles\background.png - encrypted
+data\things\860\Tibia.dat - encrypted
+data\things\860\Tibia.otfi - encrypted
+data\things\860\Tibia.spr - encrypted
+modules\client\client.lua - lua bytecode encrypted
+modules\client\client.lua - encrypted
+modules\client\client.otmod - encrypted
+modules\client_background\background.lua - lua bytecode encrypted
+modules\client_background\background.lua - encrypted
+modules\client_background\background.otmod - encrypted
+modules\client_background\background.otui - encrypted
+modules\client_background\images\background.png - encrypted
+modules\client_background\images\background_log.png - encrypted
+modules\client_background\images\config.png - encrypted
+modules\client_background\images\log\text_1.png - encrypted
+modules\client_background\images\log\text_2.png - encrypted
+modules\client_background\images\log\title.png - encrypted
+modules\client_background\images\logo.png - encrypted
+modules\client_background\images\reloading\animation.png - encrypted
+modules\client_background\images\reloading\background.png - encrypted
+modules\client_background\images\reloading\loadingbar_border.png - encrypted
+modules\client_background\images\reloading\loadingbar_time.png - encrypted
+modules\client_background\images\reloading\text.png - encrypted
+modules\client_entergame\characterlist.lua - lua bytecode encrypted
+modules\client_entergame\characterlist.lua - encrypted
+modules\client_entergame\characterlist.otui - encrypted
+modules\client_entergame\entergame.lua - lua bytecode encrypted
+modules\client_entergame\entergame.lua - encrypted
+modules\client_entergame\entergame.otmod - encrypted
+modules\client_entergame\entergame.otui - encrypted
+modules\client_entergame\images\1.png - encrypted
+modules\client_entergame\images\background_characterlist.png - encrypted
+modules\client_entergame\images\charList.png - encrypted
+modules\client_entergame\images\Enter_press1.png - encrypted
+modules\client_entergame\images\iconServer.png - encrypted
+modules\client_entergame\images\input.png - encrypted
+modules\client_entergame\images\mobile2.png - encrypted
+modules\client_entergame\images\radar.png - encrypted
+modules\client_entergame\images\reconnect.png - encrypted
+modules\client_entergame\images\reconnect_off.png - encrypted
+modules\client_entergame\images\selecionar.png - encrypted
+modules\client_entergame\images\selecionar.psxprj - encrypted
+modules\client_entergame\images\selecionar_off.png - encrypted
+modules\client_entergame\images\separator.png - encrypted
+modules\client_entergame\images\time.png - encrypted
+modules\client_entergame\images\voltar.png - encrypted
+modules\client_entergame\images\windowlist1.png - encrypted
+modules\client_entergame\img\base.png - encrypted
+modules\client_entergame\img\botao.png - encrypted
+modules\client_entergame\img\Cadastrar.png - encrypted
+modules\client_entergame\img\cancelar.png - encrypted
+modules\client_entergame\img\discord.png - encrypted
+modules\client_entergame\img\lembrar_senha.png - encrypted
+modules\client_entergame\img\login.png - encrypted
+modules\client_entergame\img\narutinho.png - encrypted
+modules\client_entergame\img\personagem.png - encrypted
+modules\client_entergame\img\script.png - encrypted
+modules\client_entergame\img\site.png - encrypted
+modules\client_entergame\logpass.otui - encrypted
+modules\client_entergame\waitinglist.otui - encrypted
+modules\client_feedback\feedback.lua - lua bytecode encrypted
+modules\client_feedback\feedback.lua - encrypted
+modules\client_feedback\feedback.otmod - encrypted
+modules\client_feedback\feedback.otui - encrypted
+modules\client_locales\locales.lua - lua bytecode encrypted
+modules\client_locales\locales.lua - encrypted
+modules\client_locales\locales.otmod - encrypted
+modules\client_locales\locales.otui - encrypted
+modules\client_locales\neededtranslations.lua - lua bytecode encrypted
+modules\client_locales\neededtranslations.lua - encrypted
+modules\client_mobile\mobile.lua - lua bytecode encrypted
+modules\client_mobile\mobile.lua - encrypted
+modules\client_mobile\mobile.otmod - encrypted
+modules\client_mobile\mobile.otui - encrypted
+modules\client_modulemanager\modulemanager.lua - lua bytecode encrypted
+modules\client_modulemanager\modulemanager.lua - encrypted
+modules\client_modulemanager\modulemanager.otmod - encrypted
+modules\client_modulemanager\modulemanager.otui - encrypted
+modules\client_options\audio.otui - encrypted
+modules\client_options\console.otui - encrypted
+modules\client_options\custom.otui - encrypted
+modules\client_options\game.otui - encrypted
+modules\client_options\graphics.otui - encrypted
+modules\client_options\interface.otui - encrypted
+modules\client_options\options.lua - lua bytecode encrypted
+modules\client_options\options.lua - encrypted
+modules\client_options\options.otmod - encrypted
+modules\client_options\options.otui - encrypted
+modules\client_profiles\profiles.lua - lua bytecode encrypted
+modules\client_profiles\profiles.lua - encrypted
+modules\client_profiles\profiles.otmod - encrypted
+modules\client_styles\styles.lua - lua bytecode encrypted
+modules\client_styles\styles.lua - encrypted
+modules\client_styles\styles.otmod - encrypted
+modules\client_terminal\commands.lua - lua bytecode encrypted
+modules\client_terminal\commands.lua - encrypted
+modules\client_terminal\terminal.lua - lua bytecode encrypted
+modules\client_terminal\terminal.lua - encrypted
+modules\client_terminal\terminal.otmod - encrypted
+modules\client_terminal\terminal.otui - encrypted
+modules\client_textedit\textedit.lua - lua bytecode encrypted
+modules\client_textedit\textedit.lua - encrypted
+modules\client_textedit\textedit.otmod - encrypted
+modules\client_textedit\textedit.otui - encrypted
+modules\client_topmenu\topmenu.lua - lua bytecode encrypted
+modules\client_topmenu\topmenu.lua - encrypted
+modules\client_topmenu\topmenu.otmod - encrypted
+modules\corelib\base64.lua - lua bytecode encrypted
+modules\corelib\base64.lua - encrypted
+modules\corelib\bitwise.lua - lua bytecode encrypted
+modules\corelib\bitwise.lua - encrypted
+modules\corelib\config.lua - lua bytecode encrypted
+modules\corelib\config.lua - encrypted
+modules\corelib\const.lua - lua bytecode encrypted
+modules\corelib\const.lua - encrypted
+modules\corelib\corelib.otmod - encrypted
+modules\corelib\globals.lua - lua bytecode encrypted
+modules\corelib\globals.lua - encrypted
+modules\corelib\http.lua - lua bytecode encrypted
+modules\corelib\http.lua - encrypted
+modules\corelib\inputmessage.lua - lua bytecode encrypted
+modules\corelib\inputmessage.lua - encrypted
+modules\corelib\json.lua - lua bytecode encrypted
+modules\corelib\json.lua - encrypted
+modules\corelib\keyboard.lua - lua bytecode encrypted
+modules\corelib\keyboard.lua - encrypted
+modules\corelib\math.lua - lua bytecode encrypted
+modules\corelib\math.lua - encrypted
+modules\corelib\mouse.lua - lua bytecode encrypted
+modules\corelib\mouse.lua - encrypted
+modules\corelib\net.lua - lua bytecode encrypted
+modules\corelib\net.lua - encrypted
+modules\corelib\orderedtable.lua - lua bytecode encrypted
+modules\corelib\orderedtable.lua - encrypted
+modules\corelib\outputmessage.lua - lua bytecode encrypted
+modules\corelib\outputmessage.lua - encrypted
+modules\corelib\settings.lua - lua bytecode encrypted
+modules\corelib\settings.lua - encrypted
+modules\corelib\string.lua - lua bytecode encrypted
+modules\corelib\string.lua - encrypted
+modules\corelib\struct.lua - lua bytecode encrypted
+modules\corelib\struct.lua - encrypted
+modules\corelib\table.lua - lua bytecode encrypted
+modules\corelib\table.lua - encrypted
+modules\corelib\test.lua - lua bytecode encrypted
+modules\corelib\test.lua - encrypted
+modules\corelib\ui\corelib_tooltip.otui - encrypted
+modules\corelib\ui\effects.lua - lua bytecode encrypted
+modules\corelib\ui\effects.lua - encrypted
+modules\corelib\ui\navigation_button.png - encrypted
+modules\corelib\ui\tooltip.lua - lua bytecode encrypted
+modules\corelib\ui\tooltip.lua - encrypted
+modules\corelib\ui\uibutton.lua - lua bytecode encrypted
+modules\corelib\ui\uibutton.lua - encrypted
+modules\corelib\ui\uicheckbox.lua - lua bytecode encrypted
+modules\corelib\ui\uicheckbox.lua - encrypted
+modules\corelib\ui\uicombobox.lua - lua bytecode encrypted
+modules\corelib\ui\uicombobox.lua - encrypted
+modules\corelib\ui\uiimageview.lua - lua bytecode encrypted
+modules\corelib\ui\uiimageview.lua - encrypted
+modules\corelib\ui\uiinputbox.lua - lua bytecode encrypted
+modules\corelib\ui\uiinputbox.lua - encrypted
+modules\corelib\ui\uilabel.lua - lua bytecode encrypted
+modules\corelib\ui\uilabel.lua - encrypted
+modules\corelib\ui\uimessagebox.lua - lua bytecode encrypted
+modules\corelib\ui\uimessagebox.lua - encrypted
+modules\corelib\ui\uiminiwindow.lua - lua bytecode encrypted
+modules\corelib\ui\uiminiwindow.lua - encrypted
+modules\corelib\ui\uiminiwindowcontainer.lua - lua bytecode encrypted
+modules\corelib\ui\uiminiwindowcontainer.lua - encrypted
+modules\corelib\ui\uimovabletabbar.lua - lua bytecode encrypted
+modules\corelib\ui\uimovabletabbar.lua - encrypted
+modules\corelib\ui\uipopupmenu.lua - lua bytecode encrypted
+modules\corelib\ui\uipopupmenu.lua - encrypted
+modules\corelib\ui\uipopupscrollmenu.lua - lua bytecode encrypted
+modules\corelib\ui\uipopupscrollmenu.lua - encrypted
+modules\corelib\ui\uiprogressbar.lua - lua bytecode encrypted
+modules\corelib\ui\uiprogressbar.lua - encrypted
+modules\corelib\ui\uiradiogroup.lua - lua bytecode encrypted
+modules\corelib\ui\uiradiogroup.lua - encrypted
+modules\corelib\ui\uiresizeborder.lua - lua bytecode encrypted
+modules\corelib\ui\uiresizeborder.lua - encrypted
+modules\corelib\ui\uiscrollarea.lua - lua bytecode encrypted
+modules\corelib\ui\uiscrollarea.lua - encrypted
+modules\corelib\ui\uiscrollbar.lua - lua bytecode encrypted
+modules\corelib\ui\uiscrollbar.lua - encrypted
+modules\corelib\ui\uispinbox.lua - lua bytecode encrypted
+modules\corelib\ui\uispinbox.lua - encrypted
+modules\corelib\ui\uisplitter.lua - lua bytecode encrypted
+modules\corelib\ui\uisplitter.lua - encrypted
+modules\corelib\ui\uitabbar.lua - lua bytecode encrypted
+modules\corelib\ui\uitabbar.lua - encrypted
+modules\corelib\ui\uitable.lua - lua bytecode encrypted
+modules\corelib\ui\uitable.lua - encrypted
+modules\corelib\ui\uitextedit.lua - lua bytecode encrypted
+modules\corelib\ui\uitextedit.lua - encrypted
+modules\corelib\ui\uiwidget.lua - lua bytecode encrypted
+modules\corelib\ui\uiwidget.lua - encrypted
+modules\corelib\ui\uiwindow.lua - lua bytecode encrypted
+modules\corelib\ui\uiwindow.lua - encrypted
+modules\corelib\util.lua - lua bytecode encrypted
+modules\corelib\util.lua - encrypted
+modules\crash_reporter\crash_reporter.lua - lua bytecode encrypted
+modules\crash_reporter\crash_reporter.lua - encrypted
+modules\crash_reporter\crash_reporter.otmod - encrypted
+modules\gamelib\const.lua - lua bytecode encrypted
+modules\gamelib\const.lua - encrypted
+modules\gamelib\creature.lua - lua bytecode encrypted
+modules\gamelib\creature.lua - encrypted
+modules\gamelib\discord.lua - lua bytecode encrypted
+modules\gamelib\discord.lua - encrypted
+modules\gamelib\game.lua - lua bytecode encrypted
+modules\gamelib\game.lua - encrypted
+modules\gamelib\gamelib.otmod - encrypted
+modules\gamelib\items.lua - lua bytecode encrypted
+modules\gamelib\items.lua - encrypted
+modules\gamelib\market.lua - lua bytecode encrypted
+modules\gamelib\market.lua - encrypted
+modules\gamelib\player.lua - lua bytecode encrypted
+modules\gamelib\player.lua - encrypted
+modules\gamelib\position.lua - lua bytecode encrypted
+modules\gamelib\position.lua - encrypted
+modules\gamelib\protocol.lua - lua bytecode encrypted
+modules\gamelib\protocol.lua - encrypted
+modules\gamelib\protocolgame.lua - lua bytecode encrypted
+modules\gamelib\protocolgame.lua - encrypted
+modules\gamelib\protocollogin.lua - lua bytecode encrypted
+modules\gamelib\protocollogin.lua - encrypted
+modules\gamelib\spells.lua - lua bytecode encrypted
+modules\gamelib\spells.lua - encrypted
+modules\gamelib\textmessages.lua - lua bytecode encrypted
+modules\gamelib\textmessages.lua - encrypted
+modules\gamelib\thing.lua - lua bytecode encrypted
+modules\gamelib\thing.lua - encrypted
+modules\gamelib\ui\uicreaturebutton.lua - lua bytecode encrypted
+modules\gamelib\ui\uicreaturebutton.lua - encrypted
+modules\gamelib\ui\uiitem.lua - lua bytecode encrypted
+modules\gamelib\ui\uiitem.lua - encrypted
+modules\gamelib\ui\uiminimap.lua - lua bytecode encrypted
+modules\gamelib\ui\uiminimap.lua - encrypted
+modules\gamelib\util.lua - lua bytecode encrypted
+modules\gamelib\util.lua - encrypted
+modules\game_actionbar\actionbar.lua - lua bytecode encrypted
+modules\game_actionbar\actionbar.lua - encrypted
+modules\game_actionbar\actionbar.otmod - encrypted
+modules\game_actionbar\actionbar.otui - encrypted
+modules\game_actionbar\hotkey.otui - encrypted
+modules\game_actionbar\object.otui - encrypted
+modules\game_actionbar\sideactionbar.otui - encrypted
+modules\game_actionbar\spell.otui - encrypted
+modules\game_actionbar\text.otui - encrypted
+modules\game_backaura\backaura.lua - lua bytecode encrypted
+modules\game_backaura\backaura.lua - encrypted
+modules\game_backaura\backaura.otmod - encrypted
+modules\game_backaura\backaura.otui - encrypted
+modules\game_backaura\background.png - encrypted
+modules\game_backaura\fechar.png - encrypted
+modules\game_backaura\nada.png - encrypted
+modules\game_battle\battle.lua - lua bytecode encrypted
+modules\game_battle\battle.lua - encrypted
+modules\game_battle\battle.otmod - encrypted
+modules\game_battle\battle.otui - encrypted
+modules\game_battle\battlebutton.otui - encrypted
+modules\game_bot\bot.lua - lua bytecode encrypted
+modules\game_bot\bot.lua - encrypted
+modules\game_bot\bot.otmod - encrypted
+modules\game_bot\bot.otui - encrypted
+modules\game_bot\edit.otui - encrypted
+modules\game_bot\executor.lua - lua bytecode encrypted
+modules\game_bot\executor.lua - encrypted
+modules\game_bot\functions\callbacks.lua - lua bytecode encrypted
+modules\game_bot\functions\callbacks.lua - encrypted
+modules\game_bot\functions\config.lua - lua bytecode encrypted
+modules\game_bot\functions\config.lua - encrypted
+modules\game_bot\functions\const.lua - lua bytecode encrypted
+modules\game_bot\functions\const.lua - encrypted
+modules\game_bot\functions\icon.lua - lua bytecode encrypted
+modules\game_bot\functions\icon.lua - encrypted
+modules\game_bot\functions\main.lua - lua bytecode encrypted
+modules\game_bot\functions\main.lua - encrypted
+modules\game_bot\functions\map.lua - lua bytecode encrypted
+modules\game_bot\functions\map.lua - encrypted
+modules\game_bot\functions\npc.lua - lua bytecode encrypted
+modules\game_bot\functions\npc.lua - encrypted
+modules\game_bot\functions\player.lua - lua bytecode encrypted
+modules\game_bot\functions\player.lua - encrypted
+modules\game_bot\functions\player_conditions.lua - lua bytecode encrypted
+modules\game_bot\functions\player_conditions.lua - encrypted
+modules\game_bot\functions\player_inventory.lua - lua bytecode encrypted
+modules\game_bot\functions\player_inventory.lua - encrypted
+modules\game_bot\functions\script_loader.lua - lua bytecode encrypted
+modules\game_bot\functions\script_loader.lua - encrypted
+modules\game_bot\functions\server.lua - lua bytecode encrypted
+modules\game_bot\functions\server.lua - encrypted
+modules\game_bot\functions\sound.lua - lua bytecode encrypted
+modules\game_bot\functions\sound.lua - encrypted
+modules\game_bot\functions\test.lua - lua bytecode encrypted
+modules\game_bot\functions\test.lua - encrypted
+modules\game_bot\functions\tools.lua - lua bytecode encrypted
+modules\game_bot\functions\tools.lua - encrypted
+modules\game_bot\functions\ui.lua - lua bytecode encrypted
+modules\game_bot\functions\ui.lua - encrypted
+modules\game_bot\functions\ui_elements.lua - lua bytecode encrypted
+modules\game_bot\functions\ui_elements.lua - encrypted
+modules\game_bot\functions\ui_legacy.lua - lua bytecode encrypted
+modules\game_bot\functions\ui_legacy.lua - encrypted
+modules\game_bot\functions\ui_windows.lua - lua bytecode encrypted
+modules\game_bot\functions\ui_windows.lua - encrypted
+modules\game_bot\panels\attacking.lua - lua bytecode encrypted
+modules\game_bot\panels\attacking.lua - encrypted
+modules\game_bot\panels\basic.lua - lua bytecode encrypted
+modules\game_bot\panels\basic.lua - encrypted
+modules\game_bot\panels\DONT_USE_PANELS.txt - encrypted
+modules\game_bot\panels\healing.lua - lua bytecode encrypted
+modules\game_bot\panels\healing.lua - encrypted
+modules\game_bot\panels\looting.lua - lua bytecode encrypted
+modules\game_bot\panels\looting.lua - encrypted
+modules\game_bot\panels\tools.lua - lua bytecode encrypted
+modules\game_bot\panels\tools.lua - encrypted
+modules\game_bot\panels\war.lua - lua bytecode encrypted
+modules\game_bot\panels\war.lua - encrypted
+modules\game_bot\panels\waypoints.lua - lua bytecode encrypted
+modules\game_bot\panels\waypoints.lua - encrypted
+modules\game_bot\ui\basic.otui - encrypted
+modules\game_bot\ui\config.otui - encrypted
+modules\game_bot\ui\container.otui - encrypted
+modules\game_bot\ui\icons.otui - encrypted
+modules\game_bot\ui\panels.otui - encrypted
+modules\game_bugreport\bugreport.lua - lua bytecode encrypted
+modules\game_bugreport\bugreport.lua - encrypted
+modules\game_bugreport\bugreport.otmod - encrypted
+modules\game_bugreport\bugreport.otui - encrypted
+modules\game_buttons\buttons.lua - lua bytecode encrypted
+modules\game_buttons\buttons.lua - encrypted
+modules\game_buttons\buttons.otmod - encrypted
+modules\game_buttons\buttons.otui - encrypted
+modules\game_changevocation\background.png - encrypted
+modules\game_changevocation\changevocation.lua - lua bytecode encrypted
+modules\game_changevocation\changevocation.lua - encrypted
+modules\game_changevocation\changevocation.otmod - encrypted
+modules\game_changevocation\changevocation.otui - encrypted
+modules\game_changevocation\fechar.png - encrypted
+modules\game_changevocation\nada.png - encrypted
+modules\game_console\channelswindow.otui - encrypted
+modules\game_console\communicationwindow.otui - encrypted
+modules\game_console\console.lua - lua bytecode encrypted
+modules\game_console\console.lua - encrypted
+modules\game_console\console.otmod - encrypted
+modules\game_console\console.otui - encrypted
+modules\game_console\violationwindow.otui - encrypted
+modules\game_containers\containers.lua - lua bytecode encrypted
+modules\game_containers\containers.lua - encrypted
+modules\game_containers\containers.otmod - encrypted
+modules\game_cooldown\cooldown.lua - lua bytecode encrypted
+modules\game_cooldown\cooldown.lua - encrypted
+modules\game_cooldown\cooldown.otmod - encrypted
+modules\game_cooldown\cooldown.otui - encrypted
+modules\game_creatureinformation\game_creatureinformation.lua - lua bytecode encrypted
+modules\game_creatureinformation\game_creatureinformation.lua - encrypted
+modules\game_creatureinformation\game_creatureinformation.otmod - encrypted
+modules\game_features\features.lua - lua bytecode encrypted
+modules\game_features\features.lua - encrypted
+modules\game_features\features.otmod - encrypted
+modules\game_gacha\gacha.lua - lua bytecode encrypted
+modules\game_gacha\gacha.lua - encrypted
+modules\game_gacha\gacha.otmod - encrypted
+modules\game_gacha\gacha.otui - encrypted
+modules\game_gacha\images\fechar.png - encrypted
+modules\game_gacha\images\imagens gacha.rar - encrypted
+modules\game_gacha\images\images.rar - encrypted
+modules\game_gacha\images\layoutanya\back.png - encrypted
+modules\game_gacha\images\layoutanya\backup.png - encrypted
+modules\game_gacha\images\layoutanya\backup1.png - encrypted
+modules\game_gacha\images\layoutanya\base.png - encrypted
+modules\game_gacha\images\layoutanya\base2.png - encrypted
+modules\game_gacha\images\layoutanya\botao.png - encrypted
+modules\game_gacha\images\layoutanya\coin.png - encrypted
+modules\game_gacha\images\layoutanya\critical.png - encrypted
+modules\game_gacha\images\layoutanya\dodge.png - encrypted
+modules\game_gacha\images\layoutanya\fail.png - encrypted
+modules\game_gacha\images\layoutanya\failure.png - encrypted
+modules\game_gacha\images\layoutanya\gachateste.png - encrypted
+modules\game_gacha\images\layoutanya\gachateste1.png - encrypted
+modules\game_gacha\images\layoutanya\gachateste2.png - encrypted
+modules\game_gacha\images\layoutanya\gachateste3.png - encrypted
+modules\game_gacha\images\layoutanya\gold.png - encrypted
+modules\game_gacha\images\layoutanya\hitto.png - encrypted
+modules\game_gacha\images\layoutanya\jogar.png - encrypted
+modules\game_gacha\images\layoutanya\jogar2.png - encrypted
+modules\game_gacha\images\layoutanya\key.png - encrypted
+modules\game_gacha\images\layoutanya\Padrao.png - encrypted
+modules\game_gacha\images\layoutanya\window.png - encrypted
+modules\game_gacha\images\layoutanya\window1.png - encrypted
+modules\game_healthbar\background.png - encrypted
+modules\game_healthbar\fechar.png - encrypted
+modules\game_healthbar\healthbar.lua - lua bytecode encrypted
+modules\game_healthbar\healthbar.lua - encrypted
+modules\game_healthbar\healthbar.otmod - encrypted
+modules\game_healthbar\healthbar.otui - encrypted
+modules\game_healthbar\nada.png - encrypted
+modules\game_healthinfo\healthinfo.lua - lua bytecode encrypted
+modules\game_healthinfo\healthinfo.lua - encrypted
+modules\game_healthinfo\healthinfo.otmod - encrypted
+modules\game_healthinfo\healthinfo.otui - encrypted
+modules\game_hotkeys\hotkeys_extra.lua - lua bytecode encrypted
+modules\game_hotkeys\hotkeys_extra.lua - encrypted
+modules\game_hotkeys\hotkeys_manager.lua - lua bytecode encrypted
+modules\game_hotkeys\hotkeys_manager.lua - encrypted
+modules\game_hotkeys\hotkeys_manager.otmod - encrypted
+modules\game_hotkeys\hotkeys_manager.otui - encrypted
+modules\game_interface\gameinterface.lua - lua bytecode encrypted
+modules\game_interface\gameinterface.lua - encrypted
+modules\game_interface\gameinterface.otui - encrypted
+modules\game_interface\interface.otmod - encrypted
+modules\game_interface\styles\countwindow.otui - encrypted
+modules\game_interface\widgets\uigamemap.lua - lua bytecode encrypted
+modules\game_interface\widgets\uigamemap.lua - encrypted
+modules\game_inventory\inventory.lua - lua bytecode encrypted
+modules\game_inventory\inventory.lua - encrypted
+modules\game_inventory\inventory.otmod - encrypted
+modules\game_inventory\inventory.otui - encrypted
+modules\game_itemborders\itemborders.lua - lua bytecode encrypted
+modules\game_itemborders\itemborders.lua - encrypted
+modules\game_itemborders\itemborders.otmod - encrypted
+modules\game_itemselector\itemselector.lua - lua bytecode encrypted
+modules\game_itemselector\itemselector.lua - encrypted
+modules\game_itemselector\itemselector.otmod - encrypted
+modules\game_itemselector\itemselector.otui - encrypted
+modules\game_market\market.lua - lua bytecode encrypted
+modules\game_market\market.lua - encrypted
+modules\game_market\market.otmod - encrypted
+modules\game_market\market.otui - encrypted
+modules\game_market\marketoffer.lua - lua bytecode encrypted
+modules\game_market\marketoffer.lua - encrypted
+modules\game_market\marketprotocol.lua - lua bytecode encrypted
+modules\game_market\marketprotocol.lua - encrypted
+modules\game_market\offerstatistic.lua - lua bytecode encrypted
+modules\game_market\offerstatistic.lua - encrypted
+modules\game_market\ui\general\amountwindow.otui - encrypted
+modules\game_market\ui\general\marketbuttons.otui - encrypted
+modules\game_market\ui\general\marketcombobox.otui - encrypted
+modules\game_market\ui\general\markettabs.otui - encrypted
+modules\game_market\ui\marketoffers\browse.otui - encrypted
+modules\game_market\ui\marketoffers\itemdetails.otui - encrypted
+modules\game_market\ui\marketoffers\itemoffers.otui - encrypted
+modules\game_market\ui\marketoffers\itemstats.otui - encrypted
+modules\game_market\ui\marketoffers\overview.otui - encrypted
+modules\game_market\ui\marketoffers.otui - encrypted
+modules\game_market\ui\myoffers\currentoffers.otui - encrypted
+modules\game_market\ui\myoffers\itemoffers.otui - encrypted
+modules\game_market\ui\myoffers\offerhistory.otui - encrypted
+modules\game_market\ui\myoffers.otui - encrypted
+modules\game_marketplayer\images\0.png - encrypted
+modules\game_marketplayer\images\1.png - encrypted
+modules\game_marketplayer\images\2.png - encrypted
+modules\game_marketplayer\images\3.png - encrypted
+modules\game_marketplayer\images\market.png - encrypted
+modules\game_marketplayer\marketplayer.lua - lua bytecode encrypted
+modules\game_marketplayer\marketplayer.lua - encrypted
+modules\game_marketplayer\marketplayer.otmod - encrypted
+modules\game_marketplayer\marketplayer.otui - encrypted
+modules\game_menu\buttons.otui - encrypted
+modules\game_menu\images\1.png - encrypted
+modules\game_menu\images\Agrupar 4.png - encrypted
+modules\game_menu\images\Agrupar 5.png - encrypted
+modules\game_menu\images\background.png - encrypted
+modules\game_menu\images\buttonMenu_closed.png - encrypted
+modules\game_menu\images\buttonMenu_opened.png - encrypted
+modules\game_menu\images\buttons_background.png - encrypted
+modules\game_menu\images\icons\1.png - encrypted
+modules\game_menu\images\icons\2.png - encrypted
+modules\game_menu\images\icons\3.png - encrypted
+modules\game_menu\images\icons\4.png - encrypted
+modules\game_menu\images\icons\location.png - encrypted
+modules\game_menu\images\icons\menu\alert.png - encrypted
+modules\game_menu\images\icons\menu\arena.png - encrypted
+modules\game_menu\images\icons\menu\bag.png - encrypted
+modules\game_menu\images\icons\menu\balls.png - encrypted
+modules\game_menu\images\icons\menu\battle.png - encrypted
+modules\game_menu\images\icons\menu\calendar.png - encrypted
+modules\game_menu\images\icons\menu\comunit.png - encrypted
+modules\game_menu\images\icons\menu\config.png - encrypted
+modules\game_menu\images\icons\menu\dungeon.png - encrypted
+modules\game_menu\images\icons\menu\exit.png - encrypted
+modules\game_menu\images\icons\menu\fish.png - encrypted
+modules\game_menu\images\icons\menu\friends.png - encrypted
+modules\game_menu\images\icons\menu\guild.png - encrypted
+modules\game_menu\images\icons\menu\healthinfo.png - encrypted
+modules\game_menu\images\icons\menu\map.png - encrypted
+modules\game_menu\images\icons\menu\party.png - encrypted
+modules\game_menu\images\icons\menu\pokedex.png - encrypted
+modules\game_menu\images\icons\menu\pokemon.png - encrypted
+modules\game_menu\images\icons\menu\quest.png - encrypted
+modules\game_menu\images\icons\menu\shop.png - encrypted
+modules\game_menu\images\icons\menu\trainer.png - encrypted
+modules\game_menu\images\locked.png - encrypted
+modules\game_menu\images\Menus\Atalhos.png - encrypted
+modules\game_menu\images\Menus\Battle.png - encrypted
+modules\game_menu\images\Menus\Bot.png - encrypted
+modules\game_menu\images\Menus\Calendar.png - encrypted
+modules\game_menu\images\Menus\Config.png - encrypted
+modules\game_menu\images\Menus\HealthInfo.png - encrypted
+modules\game_menu\images\Menus\Inventario.png - encrypted
+modules\game_menu\images\Menus\Minimap.png - encrypted
+modules\game_menu\images\Menus\PlayerInfo.png - encrypted
+modules\game_menu\images\Menus\Shop.png - encrypted
+modules\game_menu\images\Menus\Tasks.png - encrypted
+modules\game_menu\images\Menus\VIPList.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Config.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Config.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Config_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Config_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Location.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Location.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Location_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Location_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Man.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Man.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Man_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Man_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Men.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Men.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Men_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Men_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Message.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Message.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Message_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\1_Menu-1\Message_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Config.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Config.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Config_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Config_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Location.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Location.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Location_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Location_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Man.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Man.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Man_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Man_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Men.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Men.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Men_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Men_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Message.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Message.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Message_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\2_Menu-1_Ringed\Ringed Message_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Dungeon Map.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Dungeon Map.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Dungeon Map_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Dungeon Map_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Equipment.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Equipment.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Equipment_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Equipment_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Field Map & Position Check.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Field Map & Position Check.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Field Map & Position Check_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Field Map & Position Check_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Friend.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Friend.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Friend_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Friend_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Guild.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Guild.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Guild_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Guild_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Help & Unknown.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Help & Unknown.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Help & Unknown_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Help & Unknown_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Invite.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Invite.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Invite_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Invite_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Items.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Items.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Items_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Items_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Logout.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Logout.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Logout_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Logout_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Option.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Option.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Option_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Option_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Party & Profile.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Party & Profile.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Party & Profile_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Party & Profile_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Player.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Player.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Player_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Player_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Quest & Message Box.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Quest & Message Box.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Quest & Message Box_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Quest & Message Box_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Skills.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Skills.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Skills_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\3_Menu-2\Skills_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Calling.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Calling.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Calling_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Calling_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Cancel & Dissolve.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Cancel & Dissolve.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Cancel & Dissolve_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Cancel & Dissolve_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Details.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Details.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Details_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Details_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\List.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\List.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\List_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\List_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Minus.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Minus.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Minus_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Minus_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\No.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\No.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\No_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\No_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Plus.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Plus.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Plus_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Plus_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Start.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Start.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Start_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Start_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Yes.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Yes.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Yes_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\4_Buttons\Yes_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Battle Healing.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Battle Healing.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Battle Healing_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Battle Healing_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Blade Throwing.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Blade Throwing.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Blade Throwing_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Blade Throwing_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Dual Blades.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Dual Blades.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Dual Blades_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Dual Blades_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\One-Handed Straight Sword.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\One-Handed Straight Sword.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\One-Handed Straight Sword_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\One-Handed Straight Sword_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Parrying.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Parrying.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Parrying_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Parrying_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Searching.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Searching.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Searching_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Searching_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Tracking.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Tracking.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Tracking_on.png - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\5_Skills\Tracking_on.svg - encrypted
+modules\game_menu\images\SAO_Icons_v3.300\SAO_Icons_v3.300.png - encrypted
+modules\game_menu\menu.lua - lua bytecode encrypted
+modules\game_menu\menu.lua - encrypted
+modules\game_menu\menu.otmod - encrypted
+modules\game_menu\menu.otui - encrypted
+modules\game_menu\Menus\Atalhos.png - encrypted
+modules\game_menu\Menus\Battle.png - encrypted
+modules\game_menu\Menus\Bot.png - encrypted
+modules\game_menu\Menus\Calendar.png - encrypted
+modules\game_menu\Menus\Config.png - encrypted
+modules\game_menu\Menus\HealthInfo.png - encrypted
+modules\game_menu\Menus\Inventario.png - encrypted
+modules\game_menu\Menus\Minimap.png - encrypted
+modules\game_menu\Menus\PlayerInfo.png - encrypted
+modules\game_menu\Menus\Shop.png - encrypted
+modules\game_menu\Menus\Tasks.png - encrypted
+modules\game_menu\Menus\VIPList.png - encrypted
+modules\game_minimap\flagwindow.otui - encrypted
+modules\game_minimap\minimap.lua - lua bytecode encrypted
+modules\game_minimap\minimap.lua - encrypted
+modules\game_minimap\minimap.otmod - encrypted
+modules\game_minimap\minimap.otui - encrypted
+modules\game_modaldialog\modaldialog.lua - lua bytecode encrypted
+modules\game_modaldialog\modaldialog.lua - encrypted
+modules\game_modaldialog\modaldialog.otmod - encrypted
+modules\game_modaldialog\modaldialog.otui - encrypted
+modules\game_monsterBar\direita.png - encrypted
+modules\game_monsterBar\esquerdo.png - encrypted
+modules\game_monsterBar\monsterbar.lua - lua bytecode encrypted
+modules\game_monsterBar\monsterbar.lua - encrypted
+modules\game_monsterBar\monsterbar.otmod - encrypted
+modules\game_monsterBar\monsterbar.otui - encrypted
+modules\game_monsterBar\progress.png - encrypted
+modules\game_npcdialog\npcdialog.lua - lua bytecode encrypted
+modules\game_npcdialog\npcdialog.lua - encrypted
+modules\game_npcdialog\npcdialog.otmod - encrypted
+modules\game_npcdialog\npcdialog.otui - encrypted
+modules\game_npcdialog\npcs\sam.PNG - encrypted
+modules\game_npcdialog\npcs\sammy.PNG - encrypted
+modules\game_npcdialog\Thumbs.db - encrypted
+modules\game_npcdialog\window.png - encrypted
+modules\game_npcdialog\window1.png - encrypted
+modules\game_npcdialog\window3.png - encrypted
+modules\game_npcdialog\windowori.png - encrypted
+modules\game_npctrade\npctrade.lua - lua bytecode encrypted
+modules\game_npctrade\npctrade.lua - encrypted
+modules\game_npctrade\npctrade.otmod - encrypted
+modules\game_npctrade\npctrade.otui - encrypted
+modules\game_offSet\game_offSet.lua - lua bytecode encrypted
+modules\game_offSet\game_offSet.lua - encrypted
+modules\game_offSet\game_offSet.otmod - encrypted
+modules\game_outfit\outfit.lua - lua bytecode encrypted
+modules\game_outfit\outfit.lua - encrypted
+modules\game_outfit\outfit.otmod - encrypted
+modules\game_outfit\outfitwindow.otui - encrypted
+modules\game_outshader\background.png - encrypted
+modules\game_outshader\fechar.png - encrypted
+modules\game_outshader\nada.png - encrypted
+modules\game_outshader\outshader.lua - lua bytecode encrypted
+modules\game_outshader\outshader.lua - encrypted
+modules\game_outshader\outshader.otmod - encrypted
+modules\game_outshader\outshader.otui - encrypted
+modules\game_playerdeath\deathwindow.otui - encrypted
+modules\game_playerdeath\playerdeath.lua - lua bytecode encrypted
+modules\game_playerdeath\playerdeath.lua - encrypted
+modules\game_playerdeath\playerdeath.otmod - encrypted
+modules\game_playermount\playermount.lua - lua bytecode encrypted
+modules\game_playermount\playermount.lua - encrypted
+modules\game_playermount\playermount.otmod - encrypted
+modules\game_playertrade\playertrade.lua - lua bytecode encrypted
+modules\game_playertrade\playertrade.lua - encrypted
+modules\game_playertrade\playertrade.otmod - encrypted
+modules\game_playertrade\tradewindow.otui - encrypted
+modules\game_protocol\protocol.lua - lua bytecode encrypted
+modules\game_protocol\protocol.lua - encrypted
+modules\game_protocol\protocol.otmod - encrypted
+modules\game_questlog\questlog.lua - lua bytecode encrypted
+modules\game_questlog\questlog.lua - encrypted
+modules\game_questlog\questlog.otmod - encrypted
+modules\game_questlog\questlogwindow.otui - encrypted
+modules\game_ruleviolation\ruleviolation.lua - lua bytecode encrypted
+modules\game_ruleviolation\ruleviolation.lua - encrypted
+modules\game_ruleviolation\ruleviolation.otmod - encrypted
+modules\game_ruleviolation\ruleviolation.otui - encrypted
+modules\game_shaders\shaders.lua - lua bytecode encrypted
+modules\game_shaders\shaders.lua - encrypted
+modules\game_shaders\shaders.otmod - encrypted
+modules\game_shopitems\images\addons\akatsuki.png - encrypted
+modules\game_shopitems\images\addons\beta.png - encrypted
+modules\game_shopitems\images\addons\bow.png - encrypted
+modules\game_shopitems\images\addons\chidori.png - encrypted
+modules\game_shopitems\images\addons\darkbar.png - encrypted
+modules\game_shopitems\images\addons\Effect1.png - encrypted
+modules\game_shopitems\images\addons\Effect2.png - encrypted
+modules\game_shopitems\images\addons\Effect3.png - encrypted
+modules\game_shopitems\images\addons\Effect4.png - encrypted
+modules\game_shopitems\images\addons\Effect5.png - encrypted
+modules\game_shopitems\images\addons\escuro.png - encrypted
+modules\game_shopitems\images\addons\fogo.png - encrypted
+modules\game_shopitems\images\addons\ghost.png - encrypted
+modules\game_shopitems\images\addons\health1.png - encrypted
+modules\game_shopitems\images\addons\kurama.png - encrypted
+modules\game_shopitems\images\addons\mana1.png - encrypted
+modules\game_shopitems\images\addons\party.png - encrypted
+modules\game_shopitems\images\addons\rainbow.png - encrypted
+modules\game_shopitems\images\addons\rikudou1.png - encrypted
+modules\game_shopitems\images\addons\rikudou2.png - encrypted
+modules\game_shopitems\images\background.png - encrypted
+modules\game_shopitems\images\background.psxprj - encrypted
+modules\game_shopitems\images\background1.png - encrypted
+modules\game_shopitems\images\category\addons.png - encrypted
+modules\game_shopitems\images\category\addons.psxprj - encrypted
+modules\game_shopitems\images\category\clans.png - encrypted
+modules\game_shopitems\images\category\decorations.png - encrypted
+modules\game_shopitems\images\category\market.png - encrypted
+modules\game_shopitems\images\category\outfits.png - encrypted
+modules\game_shopitems\images\category\outfits.psxprj - encrypted
+modules\game_shopitems\images\category\promotions.png - encrypted
+modules\game_shopitems\images\close.png - encrypted
+modules\game_shopitems\images\market\armor.png - encrypted
+modules\game_shopitems\images\market\boots.png - encrypted
+modules\game_shopitems\images\market\coca.png - encrypted
+modules\game_shopitems\images\market\distance.png - encrypted
+modules\game_shopitems\images\market\gacha.png - encrypted
+modules\game_shopitems\images\market\gengar.png - encrypted
+modules\game_shopitems\images\market\glove.png - encrypted
+modules\game_shopitems\images\market\legs.png - encrypted
+modules\game_shopitems\images\market\mask.png - encrypted
+modules\game_shopitems\images\market\rubini.png - encrypted
+modules\game_shopitems\images\market\shonen.png - encrypted
+modules\game_shopitems\images\market\sword.png - encrypted
+modules\game_shopitems\images\market\vip.png - encrypted
+modules\game_shopitems\images\outfits\1.png - encrypted
+modules\game_shopitems\images\outfits\10.png - encrypted
+modules\game_shopitems\images\outfits\11.png - encrypted
+modules\game_shopitems\images\outfits\12.png - encrypted
+modules\game_shopitems\images\outfits\13.png - encrypted
+modules\game_shopitems\images\outfits\14.png - encrypted
+modules\game_shopitems\images\outfits\15.png - encrypted
+modules\game_shopitems\images\outfits\16.png - encrypted
+modules\game_shopitems\images\outfits\17.png - encrypted
+modules\game_shopitems\images\outfits\18.png - encrypted
+modules\game_shopitems\images\outfits\19.png - encrypted
+modules\game_shopitems\images\outfits\2.png - encrypted
+modules\game_shopitems\images\outfits\20.png - encrypted
+modules\game_shopitems\images\outfits\21.png - encrypted
+modules\game_shopitems\images\outfits\22.png - encrypted
+modules\game_shopitems\images\outfits\23.png - encrypted
+modules\game_shopitems\images\outfits\24.png - encrypted
+modules\game_shopitems\images\outfits\25.png - encrypted
+modules\game_shopitems\images\outfits\26.png - encrypted
+modules\game_shopitems\images\outfits\27.png - encrypted
+modules\game_shopitems\images\outfits\28.png - encrypted
+modules\game_shopitems\images\outfits\29.png - encrypted
+modules\game_shopitems\images\outfits\3.png - encrypted
+modules\game_shopitems\images\outfits\30.png - encrypted
+modules\game_shopitems\images\outfits\4.png - encrypted
+modules\game_shopitems\images\outfits\5.png - encrypted
+modules\game_shopitems\images\outfits\6.png - encrypted
+modules\game_shopitems\images\outfits\7.png - encrypted
+modules\game_shopitems\images\outfits\8.png - encrypted
+modules\game_shopitems\images\outfits\9.png - encrypted
+modules\game_shopitems\images\outfits\desktop.ini - encrypted
+modules\game_shopitems\images\product\comprar.png - encrypted
+modules\game_shopitems\images\product\comprar_off.png - encrypted
+modules\game_shopitems\images\product\diamond.png - encrypted
+modules\game_shopitems\images\product\gold.png - encrypted
+modules\game_shopitems\images\product\productbox.png - encrypted
+modules\game_shopitems\images\product\productbox.psxprj - encrypted
+modules\game_shopitems\images\promotions\anbu.png - encrypted
+modules\game_shopitems\images\promotions\boruto.png - encrypted
+modules\game_shopitems\images\promotions\chi.png - encrypted
+modules\game_shopitems\images\promotions\danzou.png - encrypted
+modules\game_shopitems\images\promotions\darui.png - encrypted
+modules\game_shopitems\images\promotions\guren.png - encrypted
+modules\game_shopitems\images\promotions\guy.png - encrypted
+modules\game_shopitems\images\promotions\hashirama.png - encrypted
+modules\game_shopitems\images\promotions\hiruzen.png - encrypted
+modules\game_shopitems\images\promotions\itachi.png - encrypted
+modules\game_shopitems\images\promotions\jiraya.png - encrypted
+modules\game_shopitems\images\promotions\kagu.png - encrypted
+modules\game_shopitems\images\promotions\kakuzu.png - encrypted
+modules\game_shopitems\images\promotions\kisame.png - encrypted
+modules\game_shopitems\images\promotions\madara.png - encrypted
+modules\game_shopitems\images\promotions\mei.png - encrypted
+modules\game_shopitems\images\promotions\minato.png - encrypted
+modules\game_shopitems\images\promotions\mit.png - encrypted
+modules\game_shopitems\images\promotions\momo.png - encrypted
+modules\game_shopitems\images\promotions\onoki.png - encrypted
+modules\game_shopitems\images\promotions\raika.png - encrypted
+modules\game_shopitems\images\promotions\sarada.png - encrypted
+modules\game_shopitems\images\promotions\shin.png - encrypted
+modules\game_shopitems\images\promotions\shisui.png - encrypted
+modules\game_shopitems\images\promotions\tobi.png - encrypted
+modules\game_shopitems\images\promotions\tsu.png - encrypted
+modules\game_shopitems\images\promotions\yagura.png - encrypted
+modules\game_shopitems\images\promotions\zetsu.png - encrypted
+modules\game_shopitems\shop.png - encrypted
+modules\game_shopitems\shopitems.lua - lua bytecode encrypted
+modules\game_shopitems\shopitems.lua - encrypted
+modules\game_shopitems\shopitems.otmod - encrypted
+modules\game_shopitems\shopitems.otui - encrypted
+modules\game_skills\progressbar_background.png - encrypted
+modules\game_skills\skills.lua - lua bytecode encrypted
+modules\game_skills\skills.lua - encrypted
+modules\game_skills\skills.otmod - encrypted
+modules\game_skills\skills.otui - encrypted
+modules\game_spelllist\spelllist.lua - lua bytecode encrypted
+modules\game_spelllist\spelllist.lua - encrypted
+modules\game_spelllist\spelllist.otmod - encrypted
+modules\game_spelllist\spelllist.otui - encrypted
+modules\game_stats\stats.lua - lua bytecode encrypted
+modules\game_stats\stats.lua - encrypted
+modules\game_stats\stats.otmod - encrypted
+modules\game_stats\stats.otui - encrypted
+modules\game_teleport\images\fechar.png - encrypted
+modules\game_teleport\images\mapa\blackwindow.png - encrypted
+modules\game_teleport\images\mapa\Forest-hover.png - encrypted
+modules\game_teleport\images\mapa\Forest.png - encrypted
+modules\game_teleport\images\mapa\Heavelyn-hover.png - encrypted
+modules\game_teleport\images\mapa\Heavelyn.png - encrypted
+modules\game_teleport\images\mapa\Jungle-hover.png - encrypted
+modules\game_teleport\images\mapa\Jungle.png - encrypted
+modules\game_teleport\images\mapa\Niflheim-hover.png - encrypted
+modules\game_teleport\images\mapa\Niflheim.png - encrypted
+modules\game_teleport\images\Thumbs.db - encrypted
+modules\game_teleport\images\window.png - encrypted
+modules\game_teleport\informa.otui - encrypted
+modules\game_teleport\teleport.lua - lua bytecode encrypted
+modules\game_teleport\teleport.lua - encrypted
+modules\game_teleport\teleport.otmod - encrypted
+modules\game_teleport\teleport.otui - encrypted
+modules\game_textmessage\textmessage.lua - lua bytecode encrypted
+modules\game_textmessage\textmessage.lua - encrypted
+modules\game_textmessage\textmessage.otmod - encrypted
+modules\game_textmessage\textmessage.otui - encrypted
+modules\game_textwindow\textwindow.lua - lua bytecode encrypted
+modules\game_textwindow\textwindow.lua - encrypted
+modules\game_textwindow\textwindow.otmod - encrypted
+modules\game_textwindow\textwindow.otui - encrypted
+modules\game_things\things.lua - lua bytecode encrypted
+modules\game_things\things.lua - encrypted
+modules\game_things\things.otmod - encrypted
+modules\game_topbar\topbar.lua - lua bytecode encrypted
+modules\game_topbar\topbar.lua - encrypted
+modules\game_topbar\topbar.otmod - encrypted
+modules\game_topbar\topbar.otui - encrypted
+modules\game_viplist\addvip.otui - encrypted
+modules\game_viplist\editvip.otui - encrypted
+modules\game_viplist\viplist.lua - lua bytecode encrypted
+modules\game_viplist\viplist.lua - encrypted
+modules\game_viplist\viplist.otmod - encrypted
+modules\game_viplist\viplist.otui - encrypted
+modules\game_walking\walking.lua - lua bytecode encrypted
+modules\game_walking\walking.lua - encrypted
+modules\game_walking\walking.otmod - encrypted
+modules\updater\updater.lua - lua bytecode encrypted
+modules\updater\updater.lua - encrypted
+modules\updater\updater.otmod - encrypted
+modules\updater\updater.otui - encrypted
+mods\game_healthbars\healthbars - Copia.lua - lua bytecode encrypted
+mods\game_healthbars\healthbars - Copia.lua - encrypted
+mods\game_healthbars\healthbars.lua - lua bytecode encrypted
+mods\game_healthbars\healthbars.lua - encrypted
+mods\game_healthbars\healthbars.otmod - encrypted
+mods\game_titles\titles.lua - lua bytecode encrypted
+mods\game_titles\titles.lua - encrypted
+mods\game_titles\titles.otmod - encrypted
+layouts\mobile\styles\10-scrollbars.otui - encrypted
+layouts\mobile\styles\20-smallscrollbar.otui - encrypted
+layouts\mobile\styles\30-miniwindow.otui - encrypted
+layouts\mobile\styles\40-console.otui - encrypted
+layouts\mobile\styles\40-inventory.otui - encrypted

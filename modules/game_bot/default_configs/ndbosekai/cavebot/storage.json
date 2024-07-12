@@ -1,0 +1,364 @@
+{
+  "hpitem1": {
+    "max": 90,
+    "title": "HP%",
+    "subType": 0,
+    "item": 7618,
+    "min": 51,
+    "on": false
+  },
+  "att": [
+
+  ],
+  "autoeatfood": "id da food",
+  "autohastespell": "hirenkyaku",
+  "foodItems": [
+
+  ],
+  "especiaisrevives": "--pill de imortal\nmacro(100, function()\nif hppercent() <= 60 then\nuse(13633)\nend\nend)",
+  "followLeader": "",
+  "healing2": {
+    "max": 99,
+    "title": "HP%",
+    "on": false,
+    "min": 0,
+    "text": "big regeneration"
+  },
+  "sense": "Sun Tzu",
+  "autospellarea": "Hadou #32: Oukasen",
+  "hasteSpell": "concentrate chakra feet",
+  "antiParalyze": "concentrate chakra feet",
+  "autosenzuinicial": "11861",
+  "autohealspell1": "regeneration",
+  "spelldebuff": "reishi shoot",
+  "manaitem1": {
+    "max": 90,
+    "title": "MP%",
+    "subType": 0,
+    "item": 7618,
+    "min": 51,
+    "on": false
+  },
+  "Sense": "",
+  "manaShield": "chakra defense",
+  "autoTradeMessage": "I'm using OTClientV8!",
+  "autochangegold": "3035",
+  "id": 268436454,
+  "autobuff2": "blut arterie",
+  "automanatrain": "powerdown",
+  "autoEquip": [
+    {
+      "item1": 7618,
+      "title": "Auto Equip",
+      "item2": 7618,
+      "on": false,
+      "slot": 9
+    },
+    {
+      "item1": 0,
+      "title": "Auto Equip",
+      "item2": 0,
+      "on": false,
+      "slot": 0
+    },
+    {
+      "item1": 0,
+      "title": "Auto Equip",
+      "item2": 0,
+      "on": false,
+      "slot": 0
+    },
+    {
+      "item1": 0,
+      "title": "Auto Equip",
+      "item2": 0,
+      "on": false,
+      "slot": 0
+    }
+  ],
+  "followLeader1": "nome do player",
+  "_configs": {
+    "targetbot_configs": {
+      "selected": "lure",
+      "enabled": true
+    },
+    "cavebot_configs": {
+      "enabled": false
+    }
+  },
+  "autohealspell2": "",
+  "editordecombos": "--combo\ncombo = macro(100, \"Combo\", function()\nif g_game.isAttacking() then\n   say('Letzt Stil')\n   say('Licht Regen')\n   say('Kojaku Heilig Pfeil')\nend\nend)\naddIcon(\"Combo\", {item=674, movable=true, text=\"Combo\"},combo)",
+  "TimeRemain": 0,
+  "autobuff1": "reiatsu power",
+  "_icons": {
+    "Target HP%": {
+      "y": 1,
+      "x": 0.85931034482759,
+      "enabled": false
+    },
+    "Debuff": {
+      "y": 1,
+      "x": 0.86206896551724,
+      "enabled": false
+    },
+    "Buff": {
+      "y": 1,
+      "x": 0.14344827586207,
+      "enabled": true
+    },
+    "Stun": {
+      "y": 1,
+      "x": 0.66206896551724,
+      "enabled": false
+    },
+    "Combo PvP": {
+      "y": 1,
+      "x": 0.87034482758621,
+      "enabled": true
+    },
+    "Haste": {
+      "y": 1,
+      "x": 0.14620689655172,
+      "enabled": true
+    },
+    "Chakra Feet": {
+      "y": 1,
+      "x": 0.14344827586207,
+      "enabled": true
+    },
+    "Power Down": {
+      "y": 1,
+      "x": 0.73103448275862,
+      "enabled": true
+    },
+    "Big Regen": {
+      "y": 0.61471861471861,
+      "x": 1,
+      "enabled": true
+    },
+    "AoE": {
+      "y": 1,
+      "x": 0.93103448275862,
+      "enabled": false
+    },
+    "On/Off Target": {
+      "y": 1,
+      "x": 1,
+      "enabled": false
+    },
+    "Summon": {
+      "y": 0.21861471861472,
+      "x": 0,
+      "enabled": false
+    },
+    "Sense Target": {
+      "y": 0.36147186147186,
+      "x": 0,
+      "enabled": false
+    },
+    "autoptinvite": {
+      "y": 1,
+      "x": 0,
+      "enabled": false
+    },
+    "Senzu": {
+      "y": 1,
+      "x": 0.73793103448276,
+      "enabled": false
+    },
+    "Area": {
+      "y": 1,
+      "x": 0.93103448275862,
+      "enabled": false
+    },
+    "Combo": {
+      "y": 1,
+      "x": 1,
+      "enabled": false
+    },
+    "autoptjoin": {
+      "y": 1,
+      "x": 0.077241379310345,
+      "enabled": false
+    },
+    "Potion": {
+      "y": 1,
+      "x": 0.78344827586207,
+      "enabled": false
+    },
+    "Healing": {
+      "y": 1,
+      "x": 0.21655172413793,
+      "enabled": false
+    },
+    "Buffs & Haste": {
+      "y": 1,
+      "x": 0.1448275862069,
+      "enabled": true
+    },
+    "Sense": {
+      "y": 1,
+      "x": 0.8551724137931,
+      "enabled": false
+    },
+    "AoE Spell": {
+      "y": 1,
+      "x": 0.86206896551724,
+      "enabled": false
+    },
+    "Buffs": {
+      "y": 1,
+      "x": 0.1448275862069,
+      "enabled": false
+    },
+    "On/Off CaveB": {
+      "y": 1,
+      "x": 0.92965517241379,
+      "enabled": false
+    },
+    "Area Spell": {
+      "y": 0,
+      "x": 0,
+      "enabled": false
+    }
+  },
+  "healing1": {
+    "max": 99,
+    "title": "HP%",
+    "on": false,
+    "min": 51,
+    "text": "regeneration"
+  },
+  "timers": {
+    "time": 1
+  },
+  "hpitem2": {
+    "max": 50,
+    "title": "HP%",
+    "subType": 0,
+    "item": 7620,
+    "min": 0,
+    "on": false
+  },
+  "autosenzumelhorada": "11860",
+  "alarms": {
+    "playerpk": false,
+    "playerDetected": false,
+    "creatureDetected": false,
+    "healthBelow": false,
+    "playerAttack": false,
+    "manaBelow": false,
+    "healthValue": 40,
+    "manaValue": 50,
+    "enabled": false,
+    "playerDetectedLogout": false,
+    "privateMessage": false
+  },
+  "dropItems": [
+    {
+      "id": 283,
+      "count": 1
+    },
+    {
+      "id": 284,
+      "count": 1
+    },
+    {
+      "id": 285,
+      "count": 1
+    }
+  ],
+  "_macros": {
+    "": true,
+    "Parar CaveBot & Target": false,
+    "Buff": false,
+    "Revide PK": false,
+    "Potion HP 80%": false,
+    "Start/Stop CaveBot": false,
+    "Dash - Setas": false,
+    "Guild Only - Party Inviter": false,
+    "Combo": false,
+    " Sense - Target & Name": false,
+    "Healing Spell HP < 99%": true,
+    "Potion: HP < 75%": false,
+    "Haste": true,
+    "Spell de Debuff": false,
+    "Healing HP 99%": true,
+    "Chakra Rest": false,
+    "Dash - AWSD/Setas": true,
+    "Mana Train": true,
+    "Sense - Target e X": true,
+    "Stamina Potion": false,
+    "Buffs & Haste": true,
+    "Healing Spell: HP < 99%": false,
+    "Esconder Spells Laranja": false,
+    "Auto Party Join": false,
+    "Party Inviter": false,
+    "Revidar PK": false,
+    "Stop Bot": false,
+    "Spell Target HP% < 60": false,
+    "Jump": false,
+    "Last Sense (x)": true,
+    "Auto Trade Msg": false,
+    "Combo PvP": false,
+    "Sense no Ultimo Target": false,
+    "Combo Ishida": true,
+    "Combo PvE": false,
+    "Summon": false,
+    "Combo Ishida PvP": false,
+    "Enemy": false,
+    "Sense": true,
+    "Gasolina Aditivada": false,
+    "Potion HP < 75%": false,
+    "SenzuRoot HP/MP < 90%": true,
+    "Safe Pills": true,
+    "Combo Freeza": false,
+    "Parar CaveBot e Target": false,
+    "Sense - Target": false,
+    "Exchange Money": false,
+    "Sense - X": false,
+    "Senzu Infinita HP/MP < 90%": false,
+    "Parar Cave e Target": false,
+    "Dash - AWSD": false,
+    "Last Sense (xname)": true,
+    "Spell Target HP% < 95": false,
+    "Enemy - Fora da Guild": false,
+    "Spell Area": false,
+    "Senzu HP < 75%": false,
+    "Start/Stop TargetBot": false,
+    "Guild Only - Party Joiner": false,
+    "Dash": true,
+    "Party Joiner": false,
+    "Last Sense - X": false,
+    "Enable": true,
+    "Area com monstro perto": true,
+    "Self Potion: HP < 75%": false,
+    "1": false,
+    "HealSpell HP < 99%": true,
+    "Yellow Senzu HP < 50%": false,
+    "Auto Party Invite": false,
+    "AoE Spell": false,
+    "Dash - numPad": true,
+    "Trocar Dinheiro": false,
+    "Last Sense (Digitado)": false
+  },
+  "autospellprcthp2": "Blut Arterie",
+  "manaTrain": {
+    "max": 100,
+    "title": "MP%",
+    "on": false,
+    "min": 80,
+    "text": "powerdown"
+  },
+  "lootStatus": "",
+  "autotrademsg": "[Buy Cards] 5% Double Hit     --     [Sell Cards] 1% e 3% Crit Chance | 1% e 3% MaxHP | 1%, 2% e 3% Dist | 1%, 3%, 4% e 5% Reiatsu | 1%, 2%, 3% e 4% Sword",
+  "manaitem2": {
+    "max": 50,
+    "title": "MP%",
+    "subType": 0,
+    "item": 7620,
+    "min": 0,
+    "on": false
+  },
+  "idpotally": "11860"
+}

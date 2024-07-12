@@ -1,0 +1,49 @@
+{
+  "looting": {
+    "items": [
+
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "useSpellAttack": false,
+      "priority": 1,
+      "useRuneAttack": false,
+      "maxDistance": 5,
+      "groupAttackIgnorePlayers": false,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 1,
+      "minMana": 0,
+      "avoidAttacks": false,
+      "groupRuneAttackTargets": 1,
+      "attackSpell": "",
+      "groupAttackRune": 0,
+      "useGroupAttackRune": false,
+      "groupAttackTargets": 1,
+      "groupRuneAttackDelay": 200,
+      "groupAttackSpell": "",
+      "useGroupAttack": false,
+      "keepDistanceRange": 1,
+      "attackRune": 0,
+      "chase": false,
+      "runeAttackDelay": 200,
+      "attackSpellDelay": 200,
+      "keepDistance": false,
+      "lureCavebot": false,
+      "danger": 1,
+      "groupAttackRadius": 1,
+      "lure": false,
+      "minManaGroup": 0,
+      "groupRuneAttackRadius": 1,
+      "groupAttackDelay": 200,
+      "name": "*",
+      "regex": "^.*$"
+    }
+  ]
+}
